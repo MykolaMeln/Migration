@@ -1,0 +1,2 @@
+[database]
+con = mysql+pymysql://root:root1234@localhost/migration_users

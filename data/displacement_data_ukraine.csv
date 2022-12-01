@@ -1,0 +1,14 @@
+ISO3,Name,Year,Conflict Stock Displacement,Conflict Stock Displacement (Raw),Conflict Internal Displacements,Conflict Internal Displacements (Raw),Disaster Internal Displacements,Disaster Internal Displacements (Raw),Disaster Stock Displacement,Disaster Stock Displacement (Raw)
+#country+code,#country+name,#date+year,#affected+idps+ind+stock+conflict,#affected+idps+ind+stock+conflict_raw,#affected+idps+ind+internaldisp+conflict,#affected+idps+ind+internaldisp+conflict_raw,#affected+idps+ind+internaldisp+disaster,#affected+idps+ind+internaldisp+disaster_raw,#affected+idps+ind+stock+disaster,#affected+idps+ind+stock+disaster_raw
+UKR,Ukraine,2008,,,,,25000,25000,,
+UKR,Ukraine,2010,,,,,,,,
+UKR,Ukraine,2012,,,,,,,,
+UKR,Ukraine,2013,,,,,600,600,,
+UKR,Ukraine,2014,647000,646500,647000,646500,,,,
+UKR,Ukraine,2015,1679000,1678587,942000,942418,,,,
+UKR,Ukraine,2016,1653000,1652512,109000,108921,130,126,,
+UKR,Ukraine,2017,800000,800000,21000,21415,,,,
+UKR,Ukraine,2018,800000,800208,12000,12162,,,,
+UKR,Ukraine,2019,730000,730000,60,60,,,,
+UKR,Ukraine,2020,734000,734344,74,74,2000,2030,240,237
+UKR,Ukraine,2021,854000,854000,40,40,2000,1997,12,12

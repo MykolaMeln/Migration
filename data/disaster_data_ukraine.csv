@@ -1,0 +1,15 @@
+ISO3,Name,Year,Start Date,Event Name,Hazard Category,Hazard Type,Internal Displacements
+#country+code,#country+name,#date+year,#date+start,#description,#crisis+category,#crisis+type,#affected+idps+ind+newdisp+disaster
+UKR,Ukraine,2008,2008-07-26,FL-2008-000122-UKR/MDA,Weather related,Flood,25000
+UKR,Ukraine,2010,2010-01-01,,Weather related,Flood,
+UKR,Ukraine,2012,2012-01-01,,Weather related,Extreme temperature,
+UKR,Ukraine,2013,2013-09-12,Ukraine September flood,Weather related,Flood,600
+UKR,Ukraine,2016,2016-10-11,Odessa region floods,Weather related,Flood,126
+UKR,Ukraine,2020,2020-07-06,Ukraine: Forest fire - Luhansk (Novoaydarsky) - 06/07/2020,Weather related,Wildfire,30
+"UKR,Ukraine,2020,2020-09-30,""Ukraine: Wildfires - Contact Line, Eastern Ukraine, (Luhansk) - 30/09/2020"",Weather related,Wildfire,1000"
+"UKR,Ukraine,2020,2020-06-22,""Ukraine: Floods - Ivano-Frankivsk, Chernivtsi, Zakarpattia and Lviv - 22/06/2020"",Weather related,Flood,800"
+UKR,Ukraine,2020,2020-04-03,Ukraine: Wildfires - Chernobyl Exclusion Zone - 03/04/2020,Weather related,Wildfire,200
+"UKR,Ukraine,2021,2021-06-16,""Ukraine: Floods - Crimea (Yalta, Kerch) - 16/06/2021"",Weather related,Flood,1783"
+UKR,Ukraine,2021,2021-07-22,Ukraine: Floods - Odesa and Zaporizhzhia Oblasts - 22/07/2021,Weather related,Flood,32
+UKR,Ukraine,2021,2021-07-04,Ukraine: Flood - Crimea (Bakhchysarai region) - 04/07/2021,Weather related,Flood,164
+UKR,Ukraine,2021,2021-07-22,Ukraine: Floods - Odesa and Zaporizhzhia Oblasts - 22/07/2021,Weather related,Flood,18

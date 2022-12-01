@@ -1,0 +1,1051 @@
+Year,Country of Origin Code,Country of Asylum Code,Country of Origin Name,Country of Asylum Name,Refugees,Asylum seekers,Other people in need of international protection,Internally displaced persons,Stateless Persons,Others of concern to UNHCR,Host community
+#date+year,#country+code+origin,#country+code+asylum,#country+name+origin,#country+name+asylum,#affected+refugees,#affected+asylum_seekers,#affected+oip,#affected+idps,#affected+stateless,#affected+others,#affected+hst
+1992,UKR,DNK,Ukraine,Denmark,5,0,0,0,0,0,0
+1992,UKR,NLD,Ukraine,Netherlands,13,0,0,0,0,0,0
+1992,UKR,SWE,Ukraine,Sweden,14,0,0,0,0,0,0
+1992,UKR,USA,Ukraine,United States of America,7,0,0,0,0,0,0
+1993,UKR,DNK,Ukraine,Denmark,5,0,0,0,0,0,0
+1993,UKR,NLD,Ukraine,Netherlands,13,0,0,0,0,0,0
+1993,UKR,SWE,Ukraine,Sweden,43,0,0,0,0,0,0
+1993,UKR,URY,Ukraine,Uruguay,11,0,0,0,0,0,0
+1993,UKR,USA,Ukraine,United States of America,61,0,0,0,0,0,0
+1994,UKR,ARG,Ukraine,Argentina,5,0,0,0,0,0,0
+1994,UKR,CAN,Ukraine,Canada,462,0,0,0,0,0,0
+1994,UKR,DNK,Ukraine,Denmark,5,0,0,0,0,0,0
+1994,UKR,NLD,Ukraine,Netherlands,66,0,0,0,0,0,0
+1994,UKR,ESP,Ukraine,Spain,5,0,0,0,0,0,0
+1994,UKR,SWE,Ukraine,Sweden,109,0,0,0,0,0,0
+1994,UKR,URY,Ukraine,Uruguay,13,0,0,0,0,0,0
+1994,UKR,USA,Ukraine,United States of America,252,0,0,0,0,0,0
+1995,UKR,CAN,Ukraine,Canada,594,0,0,0,0,0,0
+1995,UKR,DNK,Ukraine,Denmark,5,0,0,0,0,0,0
+1995,UKR,FRA,Ukraine,France,295,0,0,0,0,0,0
+1995,UKR,NLD,Ukraine,Netherlands,133,0,0,0,0,0,0
+1995,UKR,ESP,Ukraine,Spain,5,0,0,0,0,0,0
+1995,UKR,SWE,Ukraine,Sweden,135,0,0,0,0,0,0
+1995,UKR,URY,Ukraine,Uruguay,15,0,0,0,0,0,0
+1995,UKR,USA,Ukraine,United States of America,520,0,0,0,0,0,0
+1996,UKR,AUS,Ukraine,Australia,559,0,0,0,0,0,0
+1996,UKR,BEL,Ukraine,Belgium,898,0,0,0,0,0,0
+1996,UKR,CAN,Ukraine,Canada,698,0,0,0,0,0,0
+1996,UKR,CHL,Ukraine,Chile,0,0,0,0,0,0,0
+1996,UKR,CZE,Ukraine,Czechia,49,0,0,0,0,0,0
+1996,UKR,DNK,Ukraine,Denmark,5,0,0,0,0,0,0
+1996,UKR,FRA,Ukraine,France,292,0,0,0,0,0,0
+1996,UKR,NLD,Ukraine,Netherlands,293,0,0,0,0,0,0
+1996,UKR,PAN,Ukraine,Panama,5,0,0,0,0,0,0
+1996,UKR,RUS,Ukraine,Russian Federation,2297,0,0,0,0,0,0
+1996,UKR,ESP,Ukraine,Spain,6,0,0,0,0,0,0
+1996,UKR,SWE,Ukraine,Sweden,157,0,0,0,0,0,0
+1996,UKR,URY,Ukraine,Uruguay,12,0,0,0,0,0,0
+1996,UKR,USA,Ukraine,United States of America,835,0,0,0,0,0,0
+1997,UKR,AUS,Ukraine,Australia,266,0,0,0,0,0,0
+1997,UKR,BEL,Ukraine,Belgium,898,0,0,0,0,0,0
+1997,UKR,CAN,Ukraine,Canada,748,0,0,0,0,0,0
+1997,UKR,CZE,Ukraine,Czechia,52,0,0,0,0,0,0
+1997,UKR,DNK,Ukraine,Denmark,10,0,0,0,0,0,0
+1997,UKR,FRA,Ukraine,France,325,0,0,0,0,0,0
+1997,UKR,GEO,Ukraine,Georgia,5,0,0,0,0,0,0
+1997,UKR,ITA,Ukraine,Italy,6,0,0,0,0,0,0
+1997,UKR,NLD,Ukraine,Netherlands,338,0,0,0,0,0,0
+1997,UKR,PAN,Ukraine,Panama,5,0,0,0,0,0,0
+1997,UKR,RUS,Ukraine,Russian Federation,2326,0,0,0,0,0,0
+1997,UKR,ESP,Ukraine,Spain,6,0,0,0,0,0,0
+1997,UKR,SWE,Ukraine,Sweden,165,0,0,0,0,0,0
+1997,UKR,URY,Ukraine,Uruguay,15,0,0,0,0,0,0
+1997,UKR,USA,Ukraine,United States of America,1183,0,0,0,0,0,0
+1998,UKR,AUS,Ukraine,Australia,23,0,0,0,0,0,0
+1998,UKR,AUT,Ukraine,Austria,7,0,0,0,0,0,0
+1998,UKR,BEL,Ukraine,Belgium,23,0,0,0,0,0,0
+1998,UKR,BLR,Ukraine,Belarus,0,0,0,0,0,570,0
+1998,UKR,CAN,Ukraine,Canada,643,0,0,0,0,0,0
+1998,UKR,CZE,Ukraine,Czechia,52,0,0,0,0,0,0
+1998,UKR,DNK,Ukraine,Denmark,20,0,0,0,0,0,0
+1998,UKR,FIN,Ukraine,Finland,5,0,0,0,0,0,0
+1998,UKR,FRA,Ukraine,France,384,0,0,0,0,0,0
+1998,UKR,ISL,Ukraine,Iceland,5,0,0,0,0,0,0
+1998,UKR,ITA,Ukraine,Italy,6,0,0,0,0,0,0
+1998,UKR,NLD,Ukraine,Netherlands,373,0,0,0,0,0,0
+1998,UKR,PAN,Ukraine,Panama,5,0,0,0,0,0,0
+1998,UKR,RUS,Ukraine,Russian Federation,1394,0,0,0,0,0,0
+1998,UKR,ESP,Ukraine,Spain,11,0,0,0,0,0,0
+1998,UKR,SWE,Ukraine,Sweden,179,0,0,0,0,0,0
+1998,UKR,CHE,Ukraine,Switzerland,6,0,0,0,0,0,0
+1998,UKR,URY,Ukraine,Uruguay,22,0,0,0,0,0,0
+1998,UKR,USA,Ukraine,United States of America,1441,0,0,0,0,0,0
+1999,UKR,AUS,Ukraine,Australia,13,0,0,0,0,0,0
+1999,UKR,AUT,Ukraine,Austria,8,0,0,0,0,0,0
+1999,UKR,BEL,Ukraine,Belgium,23,0,0,0,0,0,0
+1999,UKR,CAN,Ukraine,Canada,579,0,0,0,0,0,0
+1999,UKR,CZE,Ukraine,Czechia,20,0,0,0,0,0,0
+1999,UKR,DNK,Ukraine,Denmark,82,0,0,0,0,0,0
+1999,UKR,FIN,Ukraine,Finland,5,0,0,0,0,0,0
+1999,UKR,FRA,Ukraine,France,367,0,0,0,0,0,0
+1999,UKR,HUN,Ukraine,Hungary,7,0,0,0,0,0,0
+1999,UKR,ISL,Ukraine,Iceland,5,0,0,0,0,0,0
+1999,UKR,IRL,Ukraine,Ireland,8,0,0,0,0,0,0
+1999,UKR,ITA,Ukraine,Italy,6,0,0,0,0,0,0
+1999,UKR,MEX,Ukraine,Mexico,6,0,0,0,0,0,0
+1999,UKR,NLD,Ukraine,Netherlands,394,0,0,0,0,0,0
+1999,UKR,NOR,Ukraine,Norway,6,0,0,0,0,0,0
+1999,UKR,PAN,Ukraine,Panama,5,0,0,0,0,0,0
+1999,UKR,RUS,Ukraine,Russian Federation,389,0,0,0,0,0,0
+1999,UKR,ESP,Ukraine,Spain,25,0,0,0,0,0,0
+1999,UKR,SWE,Ukraine,Sweden,179,0,0,0,0,0,0
+1999,UKR,CHE,Ukraine,Switzerland,7,0,0,0,0,0,0
+1999,UKR,URY,Ukraine,Uruguay,15,0,0,0,0,0,0
+1999,UKR,USA,Ukraine,United States of America,10086,0,0,0,0,0,0
+2000,UKR,ARG,Ukraine,Argentina,0,13,0,0,0,0,0
+2000,UKR,AUS,Ukraine,Australia,20,203,0,0,0,0,0
+2000,UKR,AUT,Ukraine,Austria,14,0,0,0,0,0,0
+2000,UKR,BEL,Ukraine,Belgium,23,0,0,0,0,0,0
+2000,UKR,CAN,Ukraine,Canada,547,553,0,0,0,0,0
+2000,UKR,CZE,Ukraine,Czechia,18,935,0,0,0,0,0
+2000,UKR,DNK,Ukraine,Denmark,98,31,0,0,0,0,0
+2000,UKR,ETH,Ukraine,Ethiopia,0,0,0,0,0,0,0
+2000,UKR,FIN,Ukraine,Finland,7,0,0,0,0,0,0
+2000,UKR,FRA,Ukraine,France,363,0,0,0,0,0,0
+2000,UKR,GBR,Ukraine,United Kingdom of Great Britain and Northern Ireland,230,0,0,0,0,0,0
+2000,UKR,DEU,Ukraine,Germany,0,131,0,0,0,0,0
+2000,UKR,HUN,Ukraine,Hungary,10,5,0,0,0,0,0
+2000,UKR,ISL,Ukraine,Iceland,5,0,0,0,0,0,0
+2000,UKR,IRL,Ukraine,Ireland,10,0,0,0,0,0,0
+2000,UKR,ITA,Ukraine,Italy,11,0,0,0,0,0,0
+2000,UKR,MEX,Ukraine,Mexico,6,0,0,0,0,0,0
+2000,UKR,NLD,Ukraine,Netherlands,422,373,0,0,0,0,0
+2000,UKR,NOR,Ukraine,Norway,8,0,0,0,0,0,0
+2000,UKR,RUS,Ukraine,Russian Federation,20,0,0,0,0,0,0
+2000,UKR,ESP,Ukraine,Spain,42,0,0,0,0,0,0
+2000,UKR,SWE,Ukraine,Sweden,203,0,0,0,0,0,0
+2000,UKR,CHE,Ukraine,Switzerland,8,62,0,0,0,0,0
+2000,UKR,UKR,Ukraine,Ukraine,0,0,0,0,0,96,0
+2000,UKR,URY,Ukraine,Uruguay,14,0,0,0,0,0,0
+2000,UKR,USA,Ukraine,United States of America,17231,732,0,0,0,0,0
+2001,UKR,ARG,Ukraine,Argentina,0,25,0,0,0,0,0
+2001,UKR,AUS,Ukraine,Australia,27,259,0,0,0,0,0
+2001,UKR,AUT,Ukraine,Austria,19,0,0,0,0,0,0
+2001,UKR,BEL,Ukraine,Belgium,188,0,0,0,0,0,0
+2001,UKR,CAN,Ukraine,Canada,726,546,0,0,0,0,0
+2001,UKR,CYP,Ukraine,Cyprus,0,20,0,0,0,0,0
+2001,UKR,CZE,Ukraine,Czechia,21,3564,0,0,0,0,0
+2001,UKR,DNK,Ukraine,Denmark,59,25,0,0,0,0,0
+2001,UKR,ECU,Ukraine,Ecuador,0,5,0,0,0,0,0
+2001,UKR,FIN,Ukraine,Finland,11,0,0,0,0,0,0
+2001,UKR,FRA,Ukraine,France,407,0,0,0,0,0,0
+2001,UKR,GBR,Ukraine,United Kingdom of Great Britain and Northern Ireland,260,0,0,0,0,0,0
+2001,UKR,DEU,Ukraine,Germany,0,211,0,0,0,0,0
+2001,UKR,HUN,Ukraine,Hungary,10,12,0,0,0,0,0
+2001,UKR,ISL,Ukraine,Iceland,5,0,0,0,0,0,0
+2001,UKR,IRL,Ukraine,Ireland,24,0,0,0,0,0,0
+2001,UKR,ISR,Ukraine,Israel,0,5,0,0,0,0,0
+2001,UKR,ITA,Ukraine,Italy,22,0,0,0,0,0,0
+2001,UKR,MEX,Ukraine,Mexico,6,0,0,0,0,0,0
+2001,UKR,NLD,Ukraine,Netherlands,444,352,0,0,0,0,0
+2001,UKR,NOR,Ukraine,Norway,67,0,0,0,0,0,0
+2001,UKR,RUS,Ukraine,Russian Federation,5,0,0,0,0,0,0
+2001,UKR,ESP,Ukraine,Spain,54,0,0,0,0,0,0
+2001,UKR,SVK,Ukraine,Slovakia,0,6,0,0,0,0,0
+2001,UKR,SVN,Ukraine,Slovenia,0,6,0,0,0,0,0
+2001,UKR,SWE,Ukraine,Sweden,236,0,0,0,0,0,0
+2001,UKR,CHE,Ukraine,Switzerland,10,88,0,0,0,0,0
+2001,UKR,URY,Ukraine,Uruguay,14,0,0,0,0,0,0
+2001,UKR,USA,Ukraine,United States of America,24097,772,0,0,0,0,0
+2002,UKR,ARG,Ukraine,Argentina,0,23,0,0,0,0,0
+2002,UKR,AUS,Ukraine,Australia,40,125,0,0,0,0,0
+2002,UKR,AUT,Ukraine,Austria,28,0,0,0,0,0,0
+2002,UKR,BEL,Ukraine,Belgium,173,0,0,0,0,0,0
+2002,UKR,CAN,Ukraine,Canada,712,570,0,0,0,0,0
+2002,UKR,CYP,Ukraine,Cyprus,0,34,0,0,0,0,0
+2002,UKR,CZE,Ukraine,Czechia,23,1983,0,0,0,0,0
+2002,UKR,DNK,Ukraine,Denmark,58,12,0,0,0,0,0
+2002,UKR,FIN,Ukraine,Finland,14,0,0,0,0,0,0
+2002,UKR,FRA,Ukraine,France,438,0,0,0,0,0,0
+2002,UKR,GBR,Ukraine,United Kingdom of Great Britain and Northern Ireland,345,0,0,0,0,0,0
+2002,UKR,DEU,Ukraine,Germany,53502,245,0,0,0,0,0
+2002,UKR,HUN,Ukraine,Hungary,13,5,0,0,0,0,0
+2002,UKR,ISL,Ukraine,Iceland,5,0,0,0,0,0,0
+2002,UKR,IRL,Ukraine,Ireland,57,0,0,0,0,0,0
+2002,UKR,ISR,Ukraine,Israel,0,5,0,0,0,0,0
+2002,UKR,ITA,Ukraine,Italy,22,0,0,0,0,0,0
+2002,UKR,MEX,Ukraine,Mexico,6,0,0,0,0,0,0
+2002,UKR,NLD,Ukraine,Netherlands,462,271,0,0,0,0,0
+2002,UKR,NOR,Ukraine,Norway,74,0,0,0,0,0,0
+2002,UKR,POL,Ukraine,Poland,0,8,0,0,0,0,0
+2002,UKR,ESP,Ukraine,Spain,62,0,0,0,0,0,0
+2002,UKR,SVK,Ukraine,Slovakia,0,33,0,0,0,0,0
+2002,UKR,SVN,Ukraine,Slovenia,0,14,0,0,0,0,0
+2002,UKR,SWE,Ukraine,Sweden,229,617,0,0,0,0,0
+2002,UKR,CHE,Ukraine,Switzerland,14,163,0,0,0,0,0
+2002,UKR,URY,Ukraine,Uruguay,14,0,0,0,0,0,0
+2002,UKR,USA,Ukraine,United States of America,28967,764,0,0,0,0,0
+2003,UKR,ARG,Ukraine,Argentina,5,17,0,0,0,0,0
+2003,UKR,AUS,Ukraine,Australia,44,10,0,0,0,0,0
+2003,UKR,AUT,Ukraine,Austria,38,0,0,0,0,0,0
+2003,UKR,BEL,Ukraine,Belgium,152,39,0,0,0,0,0
+2003,UKR,CAN,Ukraine,Canada,817,421,0,0,0,0,0
+2003,UKR,CYP,Ukraine,Cyprus,0,99,0,0,0,0,0
+2003,UKR,CZE,Ukraine,Czechia,34,565,0,0,0,0,0
+2003,UKR,DNK,Ukraine,Denmark,60,0,0,0,0,0,0
+2003,UKR,FIN,Ukraine,Finland,19,0,0,0,0,0,0
+2003,UKR,FRA,Ukraine,France,519,0,0,0,0,0,0
+2003,UKR,GBR,Ukraine,United Kingdom of Great Britain and Northern Ireland,425,0,0,0,0,0,0
+2003,UKR,DEU,Ukraine,Germany,57309,82,0,0,0,0,0
+2003,UKR,HUN,Ukraine,Hungary,15,5,0,0,0,0,0
+2003,UKR,ISL,Ukraine,Iceland,5,0,0,0,0,0,0
+2003,UKR,IRL,Ukraine,Ireland,88,173,0,0,0,0,0
+2003,UKR,ITA,Ukraine,Italy,25,0,0,0,0,0,0
+2003,UKR,NLD,Ukraine,Netherlands,478,188,0,0,0,0,0
+2003,UKR,NOR,Ukraine,Norway,73,0,0,0,0,0,0
+2003,UKR,POL,Ukraine,Poland,0,25,0,0,0,0,0
+2003,UKR,ESP,Ukraine,Spain,65,0,0,0,0,0,0
+2003,UKR,SVK,Ukraine,Slovakia,0,68,0,0,0,0,0
+2003,UKR,SWE,Ukraine,Sweden,218,437,0,0,0,0,0
+2003,UKR,CHE,Ukraine,Switzerland,16,61,0,0,0,0,0
+2003,UKR,URY,Ukraine,Uruguay,12,0,0,0,0,0,0
+2003,UKR,USA,Ukraine,United States of America,33724,660,0,0,0,0,0
+2004,UKR,ARG,Ukraine,Argentina,10,18,0,0,0,0,0
+2004,UKR,AUS,Ukraine,Australia,40,0,0,0,0,0,0
+2004,UKR,AUT,Ukraine,Austria,65,0,0,0,0,0,0
+2004,UKR,BEL,Ukraine,Belgium,144,52,0,0,0,0,0
+2004,UKR,BIH,Ukraine,Bosnia and Herzegovina,0,5,0,0,0,0,0
+2004,UKR,CAN,Ukraine,Canada,961,363,0,0,0,0,0
+2004,UKR,CYP,Ukraine,Cyprus,5,823,0,0,0,0,0
+2004,UKR,CZE,Ukraine,Czechia,38,187,0,0,0,0,0
+2004,UKR,DNK,Ukraine,Denmark,65,5,0,0,0,0,0
+2004,UKR,FIN,Ukraine,Finland,20,0,0,0,0,0,0
+2004,UKR,FRA,Ukraine,France,583,0,0,0,0,0,0
+2004,UKR,GBR,Ukraine,United Kingdom of Great Britain and Northern Ireland,468,0,0,0,0,0,0
+2004,UKR,DEU,Ukraine,Germany,57693,84,0,0,0,0,0
+2004,UKR,GRC,Ukraine,Greece,5,8,0,0,0,0,0
+2004,UKR,HUN,Ukraine,Hungary,27,10,0,0,0,0,0
+2004,UKR,ISL,Ukraine,Iceland,5,0,0,0,0,0,0
+2004,UKR,IRL,Ukraine,Ireland,136,104,0,0,0,0,0
+2004,UKR,ITA,Ukraine,Italy,29,0,0,0,0,0,0
+2004,UKR,NLD,Ukraine,Netherlands,440,94,0,0,0,0,0
+2004,UKR,NOR,Ukraine,Norway,74,0,0,0,0,0,0
+2004,UKR,POL,Ukraine,Poland,10,12,0,0,0,0,0
+2004,UKR,ESP,Ukraine,Spain,67,0,0,0,0,0,0
+2004,UKR,SVK,Ukraine,Slovakia,0,72,0,0,0,0,0
+2004,UKR,SWE,Ukraine,Sweden,179,216,0,0,0,0,0
+2004,UKR,CHE,Ukraine,Switzerland,23,20,0,0,0,0,0
+2004,UKR,URY,Ukraine,Uruguay,12,0,0,0,0,0,0
+2004,UKR,USA,Ukraine,United States of America,28483,569,0,0,0,0,0
+2005,UKR,ARG,Ukraine,Argentina,11,11,0,0,0,0,0
+2005,UKR,AUS,Ukraine,Australia,34,5,0,0,0,0,0
+2005,UKR,AUT,Ukraine,Austria,101,0,0,0,0,0,0
+2005,UKR,BEL,Ukraine,Belgium,138,112,0,0,0,0,0
+2005,UKR,BLR,Ukraine,Belarus,0,5,0,0,0,0,0
+2005,UKR,BGR,Ukraine,Bulgaria,0,5,0,0,0,0,0
+2005,UKR,CAN,Ukraine,Canada,1100,315,0,0,0,0,0
+2005,UKR,CYP,Ukraine,Cyprus,12,1100,0,0,0,0,0
+2005,UKR,CZE,Ukraine,Czechia,45,129,0,0,0,0,0
+2005,UKR,DNK,Ukraine,Denmark,60,0,0,0,0,0,0
+2005,UKR,FIN,Ukraine,Finland,20,0,0,0,0,0,0
+2005,UKR,FRA,Ukraine,France,643,0,0,0,0,0,0
+2005,UKR,GBR,Ukraine,United Kingdom of Great Britain and Northern Ireland,484,0,0,0,0,0,0
+2005,UKR,DEU,Ukraine,Germany,56276,195,0,0,0,0,0
+2005,UKR,GRC,Ukraine,Greece,5,6,0,0,0,0,0
+2005,UKR,HUN,Ukraine,Hungary,52,5,0,0,0,0,0
+2005,UKR,ISL,Ukraine,Iceland,26,0,0,0,0,0,0
+2005,UKR,IRL,Ukraine,Ireland,162,0,0,0,0,0,0
+2005,UKR,ITA,Ukraine,Italy,29,0,0,0,0,0,0
+2005,UKR,NLD,Ukraine,Netherlands,390,57,0,0,0,0,0
+2005,UKR,NOR,Ukraine,Norway,74,0,0,0,0,0,0
+2005,UKR,POL,Ukraine,Poland,10,0,0,0,0,0,0
+2005,UKR,ESP,Ukraine,Spain,68,0,0,0,0,0,0
+2005,UKR,SVK,Ukraine,Slovakia,12,58,0,0,0,0,0
+2005,UKR,SWE,Ukraine,Sweden,172,90,0,0,0,0,0
+2005,UKR,CHE,Ukraine,Switzerland,31,7,0,0,0,0,0
+2005,UKR,URY,Ukraine,Uruguay,12,0,0,0,0,0,0
+2005,UKR,USA,Ukraine,United States of America,24256,564,0,0,0,0,0
+2006,UKR,ARG,Ukraine,Argentina,11,11,0,0,0,0,0
+2006,UKR,AUS,Ukraine,Australia,30,5,0,0,0,0,0
+2006,UKR,AUT,Ukraine,Austria,131,721,0,0,0,0,0
+2006,UKR,BEL,Ukraine,Belgium,126,42,0,0,0,0,0
+2006,UKR,CAN,Ukraine,Canada,1177,283,0,0,0,0,0
+2006,UKR,CYP,Ukraine,Cyprus,14,870,0,0,0,0,0
+2006,UKR,CZE,Ukraine,Czechia,63,658,0,0,0,0,0
+2006,UKR,DNK,Ukraine,Denmark,57,0,0,0,0,0,0
+2006,UKR,FIN,Ukraine,Finland,20,9,0,0,0,0,0
+2006,UKR,FRA,Ukraine,France,663,0,0,0,0,0,0
+2006,UKR,GBR,Ukraine,United Kingdom of Great Britain and Northern Ireland,492,0,0,0,0,0,0
+2006,UKR,DEU,Ukraine,Germany,16446,126,0,0,0,0,0
+2006,UKR,GRC,Ukraine,Greece,5,0,0,0,0,0,0
+2006,UKR,HUN,Ukraine,Hungary,48,9,0,0,0,0,0
+2006,UKR,ISL,Ukraine,Iceland,26,5,0,0,0,0,0
+2006,UKR,IRL,Ukraine,Ireland,163,31,0,0,0,0,0
+2006,UKR,ITA,Ukraine,Italy,29,0,0,0,0,0,0
+2006,UKR,NLD,Ukraine,Netherlands,241,51,0,0,0,0,0
+2006,UKR,NOR,Ukraine,Norway,74,7,0,0,0,0,0
+2006,UKR,POL,Ukraine,Poland,11,5,0,0,0,0,0
+2006,UKR,ROU,Ukraine,Romania,0,5,0,0,0,0,0
+2006,UKR,RUS,Ukraine,Russian Federation,0,6,0,0,0,0,0
+2006,UKR,ESP,Ukraine,Spain,65,0,0,0,0,0,0
+2006,UKR,SVK,Ukraine,Slovakia,12,61,0,0,0,0,0
+2006,UKR,SWE,Ukraine,Sweden,165,73,0,0,0,0,0
+2006,UKR,CHE,Ukraine,Switzerland,28,6,0,0,0,0,0
+2006,UKR,URY,Ukraine,Uruguay,12,0,0,0,0,0,0
+2006,UKR,USA,Ukraine,United States of America,43607,494,0,0,0,0,0
+2007,UKR,ARG,Ukraine,Argentina,11,15,0,0,0,0,0
+2007,UKR,AUS,Ukraine,Australia,55,0,0,0,0,0,0
+2007,UKR,AUT,Ukraine,Austria,151,684,0,0,0,0,0
+2007,UKR,BEL,Ukraine,Belgium,109,0,0,0,0,0,0
+2007,UKR,BRA,Ukraine,Brazil,0,5,0,0,0,0,0
+2007,UKR,CAN,Ukraine,Canada,1911,332,0,0,0,0,0
+2007,UKR,CRI,Ukraine,Costa Rica,18,0,0,0,0,0,0
+2007,UKR,CYP,Ukraine,Cyprus,18,407,0,0,0,0,0
+2007,UKR,CZE,Ukraine,Czechia,78,347,0,0,0,0,0
+2007,UKR,DNK,Ukraine,Denmark,56,0,0,0,0,0,0
+2007,UKR,FIN,Ukraine,Finland,20,5,0,0,0,0,0
+2007,UKR,FRA,Ukraine,France,673,0,0,0,0,0,0
+2007,UKR,GBR,Ukraine,United Kingdom of Great Britain and Northern Ireland,504,0,0,0,0,0,0
+2007,UKR,DEU,Ukraine,Germany,19573,76,0,0,0,0,0
+2007,UKR,GRC,Ukraine,Greece,5,6,0,0,0,0,0
+2007,UKR,HUN,Ukraine,Hungary,49,0,0,0,0,0,0
+2007,UKR,ISL,Ukraine,Iceland,5,0,0,0,0,0,0
+2007,UKR,IRL,Ukraine,Ireland,197,40,0,0,0,0,0
+2007,UKR,ISR,Ukraine,Israel,0,5,0,0,0,0,0
+2007,UKR,ITA,Ukraine,Italy,62,0,0,0,0,0,0
+2007,UKR,NLD,Ukraine,Netherlands,205,0,0,0,0,0,0
+2007,UKR,NOR,Ukraine,Norway,74,5,0,0,0,0,0
+2007,UKR,POL,Ukraine,Poland,11,12,0,0,0,0,0
+2007,UKR,RUS,Ukraine,Russian Federation,0,26,0,0,0,0,0
+2007,UKR,ESP,Ukraine,Spain,65,0,0,0,0,0,0
+2007,UKR,SVK,Ukraine,Slovakia,13,0,0,0,0,0,0
+2007,UKR,SWE,Ukraine,Sweden,172,75,0,0,0,0,0
+2007,UKR,CHE,Ukraine,Switzerland,21,5,0,0,0,0,0
+2007,UKR,URY,Ukraine,Uruguay,12,0,0,0,0,0,0
+2007,UKR,USA,Ukraine,United States of America,1912,373,0,0,0,0,0
+2008,UKR,ARG,Ukraine,Argentina,24,0,0,0,0,0,0
+2008,UKR,AUS,Ukraine,Australia,55,0,0,0,0,0,0
+2008,UKR,AUT,Ukraine,Austria,221,515,0,0,0,0,0
+2008,UKR,BEL,Ukraine,Belgium,100,0,0,0,0,0,0
+2008,UKR,BLR,Ukraine,Belarus,0,6,0,0,0,0,0
+2008,UKR,CAN,Ukraine,Canada,1904,401,0,0,0,0,0
+2008,UKR,CRI,Ukraine,Costa Rica,18,0,0,0,0,0,0
+2008,UKR,CYP,Ukraine,Cyprus,21,274,0,0,0,0,0
+2008,UKR,CZE,Ukraine,Czechia,85,216,0,0,0,0,0
+2008,UKR,DNK,Ukraine,Denmark,49,0,0,0,0,0,0
+2008,UKR,FIN,Ukraine,Finland,19,5,0,0,0,0,0
+2008,UKR,FRA,Ukraine,France,678,0,0,0,0,0,0
+2008,UKR,GBR,Ukraine,United Kingdom of Great Britain and Northern Ireland,509,0,0,0,0,0,0
+2008,UKR,DEU,Ukraine,Germany,22156,48,0,0,0,0,0
+2008,UKR,GRC,Ukraine,Greece,5,9,0,0,0,0,0
+2008,UKR,HUN,Ukraine,Hungary,49,5,0,0,0,0,0
+2008,UKR,IRL,Ukraine,Ireland,199,41,0,0,0,0,0
+2008,UKR,ITA,Ukraine,Italy,63,0,0,0,0,0,0
+2008,UKR,NLD,Ukraine,Netherlands,170,0,0,0,0,0,0
+2008,UKR,NOR,Ukraine,Norway,76,13,0,0,0,0,0
+2008,UKR,POL,Ukraine,Poland,13,7,0,0,0,0,0
+2008,UKR,RUS,Ukraine,Russian Federation,6,9,0,0,0,0,0
+2008,UKR,ESP,Ukraine,Spain,56,0,0,0,0,0,0
+2008,UKR,SVK,Ukraine,Slovakia,16,0,0,0,0,0,0
+2008,UKR,SWE,Ukraine,Sweden,162,38,0,0,0,0,0
+2008,UKR,CHE,Ukraine,Switzerland,22,19,0,0,0,0,0
+2008,UKR,URY,Ukraine,Uruguay,12,0,0,0,0,0,0
+2008,UKR,USA,Ukraine,United States of America,1728,294,0,0,0,0,0
+2009,UKR,ARG,Ukraine,Argentina,19,0,0,0,0,0,0
+2009,UKR,AUS,Ukraine,Australia,52,0,0,0,0,0,0
+2009,UKR,AUT,Ukraine,Austria,259,368,0,0,0,0,0
+2009,UKR,BEL,Ukraine,Belgium,89,0,0,0,0,0,0
+2009,UKR,BLR,Ukraine,Belarus,0,6,0,0,0,0,0
+2009,UKR,BGR,Ukraine,Bulgaria,0,7,0,0,0,0,0
+2009,UKR,CAN,Ukraine,Canada,1914,378,0,0,0,0,0
+2009,UKR,CRI,Ukraine,Costa Rica,18,0,0,0,0,0,0
+2009,UKR,CYP,Ukraine,Cyprus,28,58,0,0,0,0,0
+2009,UKR,CZE,Ukraine,Czechia,87,178,0,0,0,0,0
+2009,UKR,DNK,Ukraine,Denmark,35,0,0,0,0,0,0
+2009,UKR,FIN,Ukraine,Finland,18,0,0,0,0,0,0
+2009,UKR,FRA,Ukraine,France,702,0,0,0,0,0,0
+2009,UKR,GBR,Ukraine,United Kingdom of Great Britain and Northern Ireland,485,0,0,0,0,0,0
+2009,UKR,DEU,Ukraine,Germany,18412,73,0,0,0,0,0
+2009,UKR,GRC,Ukraine,Greece,5,0,0,0,0,0,0
+2009,UKR,HUN,Ukraine,Hungary,47,7,0,0,0,0,0
+2009,UKR,IRL,Ukraine,Ireland,193,5,0,0,0,0,0
+2009,UKR,ITA,Ukraine,Italy,76,0,0,0,0,0,0
+2009,UKR,NLD,Ukraine,Netherlands,149,25,0,0,0,0,0
+2009,UKR,NOR,Ukraine,Norway,72,10,0,0,0,0,0
+2009,UKR,POL,Ukraine,Poland,17,7,0,0,0,0,0
+2009,UKR,ROU,Ukraine,Romania,0,5,0,0,0,0,0
+2009,UKR,RUS,Ukraine,Russian Federation,7,6,0,0,0,0,0
+2009,UKR,ESP,Ukraine,Spain,42,0,0,0,0,0,0
+2009,UKR,SVK,Ukraine,Slovakia,16,0,0,0,0,0,0
+2009,UKR,SWE,Ukraine,Sweden,163,114,0,0,0,0,0
+2009,UKR,CHE,Ukraine,Switzerland,26,25,0,0,0,0,0
+2009,UKR,URY,Ukraine,Uruguay,12,0,0,0,0,0,0
+2009,UKR,USA,Ukraine,United States of America,1569,258,0,0,0,0,0
+2010,UKR,ARG,Ukraine,Argentina,19,0,0,0,0,0,0
+2010,UKR,AUS,Ukraine,Australia,42,10,0,0,0,0,0
+2010,UKR,AUT,Ukraine,Austria,282,238,0,0,0,0,0
+2010,UKR,BEL,Ukraine,Belgium,86,0,0,0,0,0,0
+2010,UKR,BGR,Ukraine,Bulgaria,0,8,0,0,0,0,0
+2010,UKR,CAN,Ukraine,Canada,1871,341,0,0,0,0,0
+2010,UKR,CRI,Ukraine,Costa Rica,18,0,0,0,0,0,0
+2010,UKR,CYP,Ukraine,Cyprus,28,71,0,0,0,0,0
+2010,UKR,CZE,Ukraine,Czechia,94,131,0,0,0,0,0
+2010,UKR,DNK,Ukraine,Denmark,19,6,0,0,0,0,0
+2010,UKR,FIN,Ukraine,Finland,15,5,0,0,0,0,0
+2010,UKR,FRA,Ukraine,France,712,0,0,0,0,0,0
+2010,UKR,GBR,Ukraine,United Kingdom of Great Britain and Northern Ireland,284,0,0,0,0,0,0
+2010,UKR,DEU,Ukraine,Germany,19398,94,0,0,0,0,0
+2010,UKR,GRC,Ukraine,Greece,5,78,0,0,0,0,0
+2010,UKR,HUN,Ukraine,Hungary,44,7,0,0,0,0,0
+2010,UKR,IRL,Ukraine,Ireland,187,30,0,0,0,0,0
+2010,UKR,ITA,Ukraine,Italy,71,6,0,0,0,0,0
+2010,UKR,MDA,Ukraine,Republic of Moldova,0,11,0,0,0,0,0
+2010,UKR,NLD,Ukraine,Netherlands,124,15,0,0,0,0,0
+2010,UKR,NOR,Ukraine,Norway,70,0,0,0,0,0,0
+2010,UKR,POL,Ukraine,Poland,20,16,0,0,0,0,0
+2010,UKR,ROU,Ukraine,Romania,0,5,0,0,0,0,0
+2010,UKR,RUS,Ukraine,Russian Federation,15,6,0,0,0,0,0
+2010,UKR,ESP,Ukraine,Spain,25,0,0,0,0,0,0
+2010,UKR,SVK,Ukraine,Slovakia,17,0,0,0,0,0,0
+2010,UKR,SWE,Ukraine,Sweden,140,111,0,0,0,0,0
+2010,UKR,CHE,Ukraine,Switzerland,29,12,0,0,0,0,0
+2010,UKR,URY,Ukraine,Uruguay,12,0,0,0,0,0,0
+2010,UKR,USA,Ukraine,United States of America,1475,49,0,0,0,0,0
+2011,UKR,ARG,Ukraine,Argentina,18,7,0,0,0,0,0
+2011,UKR,AUS,Ukraine,Australia,40,6,0,0,0,0,0
+2011,UKR,AUT,Ukraine,Austria,308,141,0,0,0,0,0
+2011,UKR,BEL,Ukraine,Belgium,84,54,0,0,0,0,0
+2011,UKR,CAN,Ukraine,Canada,1788,283,0,0,0,0,0
+2011,UKR,CRI,Ukraine,Costa Rica,18,0,0,0,0,0,0
+2011,UKR,CYP,Ukraine,Cyprus,28,60,0,0,0,0,0
+2011,UKR,CZE,Ukraine,Czechia,94,0,0,0,0,0,0
+2011,UKR,DNK,Ukraine,Denmark,10,0,0,0,0,0,0
+2011,UKR,FIN,Ukraine,Finland,11,0,0,0,0,0,0
+2011,UKR,FRA,Ukraine,France,716,0,0,0,0,0,0
+2011,UKR,GBR,Ukraine,United Kingdom of Great Britain and Northern Ireland,252,39,0,0,0,0,0
+2011,UKR,DEU,Ukraine,Germany,19922,70,0,0,0,0,0
+2011,UKR,GRC,Ukraine,Greece,5,0,0,0,0,0,0
+2011,UKR,HRV,Ukraine,Croatia,0,5,0,0,0,0,0
+2011,UKR,HUN,Ukraine,Hungary,44,0,0,0,0,0,0
+2011,UKR,IRL,Ukraine,Ireland,175,43,0,0,0,0,0
+2011,UKR,ITA,Ukraine,Italy,60,0,0,0,0,0,0
+2011,UKR,NLD,Ukraine,Netherlands,103,28,0,0,0,0,0
+2011,UKR,NOR,Ukraine,Norway,12,5,0,0,0,0,0
+2011,UKR,POL,Ukraine,Poland,25,52,0,0,0,0,0
+2011,UKR,PRT,Ukraine,Portugal,0,5,0,0,0,0,0
+2011,UKR,ROU,Ukraine,Romania,0,6,0,0,0,0,0
+2011,UKR,RUS,Ukraine,Russian Federation,5,8,0,0,0,0,0
+2011,UKR,ESP,Ukraine,Spain,18,0,0,0,0,0,0
+2011,UKR,SVK,Ukraine,Slovakia,17,0,0,0,0,0,0
+2011,UKR,SWE,Ukraine,Sweden,118,140,0,0,0,0,0
+2011,UKR,CHE,Ukraine,Switzerland,26,13,0,0,0,0,0
+2011,UKR,URY,Ukraine,Uruguay,12,0,0,0,0,0,0
+2011,UKR,USA,Ukraine,United States of America,1463,74,0,0,0,0,0
+2012,UKR,ARG,Ukraine,Argentina,18,13,0,0,0,0,0
+2012,UKR,AUS,Ukraine,Australia,26,16,0,0,0,0,0
+2012,UKR,AUT,Ukraine,Austria,309,131,0,0,0,0,0
+2012,UKR,BEL,Ukraine,Belgium,85,32,0,0,0,0,0
+2012,UKR,BLR,Ukraine,Belarus,0,5,0,0,0,0,0
+2012,UKR,CAN,Ukraine,Canada,1737,310,0,0,0,0,0
+2012,UKR,CRI,Ukraine,Costa Rica,18,0,0,0,0,0,0
+2012,UKR,CYP,Ukraine,Cyprus,28,11,0,0,0,0,0
+2012,UKR,CZE,Ukraine,Czechia,105,43,0,0,0,0,0
+2012,UKR,DNK,Ukraine,Denmark,9,5,0,0,0,0,0
+2012,UKR,FIN,Ukraine,Finland,8,15,0,0,0,0,0
+2012,UKR,FRA,Ukraine,France,719,0,0,0,0,0,0
+2012,UKR,GBR,Ukraine,United Kingdom of Great Britain and Northern Ireland,192,52,0,0,0,0,0
+2012,UKR,DEU,Ukraine,Germany,20059,158,0,0,0,0,0
+2012,UKR,GRC,Ukraine,Greece,5,0,0,0,0,0,0
+2012,UKR,HRV,Ukraine,Croatia,5,0,0,0,0,0,0
+2012,UKR,HUN,Ukraine,Hungary,41,0,0,0,0,0,0
+2012,UKR,IRL,Ukraine,Ireland,134,40,0,0,0,0,0
+2012,UKR,ITA,Ukraine,Italy,60,13,0,0,0,0,0
+2012,UKR,LIE,Ukraine,Liechtenstein,0,5,0,0,0,0,0
+2012,UKR,LTU,Ukraine,Lithuania,5,0,0,0,0,0,0
+2012,UKR,NLD,Ukraine,Netherlands,74,28,0,0,0,0,0
+2012,UKR,NOR,Ukraine,Norway,5,25,0,0,0,0,0
+2012,UKR,POL,Ukraine,Poland,25,38,0,0,0,0,0
+2012,UKR,PRT,Ukraine,Portugal,0,5,0,0,0,0,0
+2012,UKR,RUS,Ukraine,Russian Federation,5,6,0,0,0,0,0
+2012,UKR,ESP,Ukraine,Spain,10,15,0,0,0,0,0
+2012,UKR,SVK,Ukraine,Slovakia,17,0,0,0,0,0,0
+2012,UKR,SWE,Ukraine,Sweden,111,87,0,0,0,0,0
+2012,UKR,CHE,Ukraine,Switzerland,16,24,0,0,0,0,0
+2012,UKR,URY,Ukraine,Uruguay,11,0,0,0,0,0,0
+2012,UKR,USA,Ukraine,United States of America,1411,132,0,0,0,0,0
+2013,UKR,ARG,Ukraine,Argentina,24,7,0,0,0,0,0
+2013,UKR,AUS,Ukraine,Australia,20,14,0,0,0,0,0
+2013,UKR,AUT,Ukraine,Austria,311,125,0,0,0,0,0
+2013,UKR,BEL,Ukraine,Belgium,33,22,0,0,0,0,0
+2013,UKR,CAN,Ukraine,Canada,1605,243,0,0,0,0,0
+2013,UKR,CRI,Ukraine,Costa Rica,18,0,0,0,0,0,0
+2013,UKR,CYP,Ukraine,Cyprus,28,5,0,0,0,0,0
+2013,UKR,CZE,Ukraine,Czechia,110,26,0,0,0,0,0
+2013,UKR,DNK,Ukraine,Denmark,16,15,0,0,0,0,0
+2013,UKR,FIN,Ukraine,Finland,5,6,0,0,0,0,0
+2013,UKR,FRA,Ukraine,France,732,57,0,0,0,0,0
+2013,UKR,GBR,Ukraine,United Kingdom of Great Britain and Northern Ireland,124,68,0,0,0,0,0
+2013,UKR,DEU,Ukraine,Germany,261,259,0,0,0,0,0
+2013,UKR,GRC,Ukraine,Greece,6,110,0,0,0,0,0
+2013,UKR,HRV,Ukraine,Croatia,5,0,0,0,0,0,0
+2013,UKR,HUN,Ukraine,Hungary,9,5,0,0,0,0,0
+2013,UKR,IRL,Ukraine,Ireland,104,40,0,0,0,0,0
+2013,UKR,ITA,Ukraine,Italy,77,5,0,0,0,0,0
+2013,UKR,LBN,Ukraine,Lebanon,0,0,0,0,0,6,0
+2013,UKR,LTU,Ukraine,Lithuania,6,0,0,0,0,0,0
+2013,UKR,LUX,Ukraine,Luxembourg,5,5,0,0,0,0,0
+2013,UKR,NLD,Ukraine,Netherlands,63,0,0,0,0,0,0
+2013,UKR,NOR,Ukraine,Norway,9,8,0,0,0,0,0
+2013,UKR,POL,Ukraine,Poland,39,25,0,0,0,0,0
+2013,UKR,PRT,Ukraine,Portugal,0,5,0,0,0,0,0
+2013,UKR,RUS,Ukraine,Russian Federation,5,10,0,0,0,0,0
+2013,UKR,ESP,Ukraine,Spain,6,9,0,0,0,0,0
+2013,UKR,SVK,Ukraine,Slovakia,17,0,0,0,0,0,0
+2013,UKR,SWE,Ukraine,Sweden,107,92,0,0,0,0,0
+2013,UKR,CHE,Ukraine,Switzerland,19,23,0,0,0,0,0
+2013,UKR,URY,Ukraine,Uruguay,11,0,0,0,0,0,0
+2013,UKR,USA,Ukraine,United States of America,1379,447,0,0,0,0,0
+2014,UKR,ARG,Ukraine,Argentina,24,89,0,0,0,0,0
+2014,UKR,ARM,Ukraine,Armenia,43,27,0,0,0,0,0
+2014,UKR,AUS,Ukraine,Australia,22,59,0,0,0,0,0
+2014,UKR,AUT,Ukraine,Austria,300,0,0,0,0,0,0
+2014,UKR,AZE,Ukraine,Azerbaijan,0,12,0,0,0,0,0
+2014,UKR,BEL,Ukraine,Belgium,33,269,0,0,0,0,0
+2014,UKR,BLR,Ukraine,Belarus,284,167,0,0,0,0,0
+2014,UKR,BRA,Ukraine,Brazil,0,18,0,0,0,0,0
+2014,UKR,BGR,Ukraine,Bulgaria,0,36,0,0,0,0,0
+2014,UKR,CAN,Ukraine,Canada,1468,158,0,0,0,0,0
+2014,UKR,CHL,Ukraine,Chile,0,6,0,0,0,0,0
+2014,UKR,CRI,Ukraine,Costa Rica,21,5,0,0,0,0,0
+2014,UKR,CYP,Ukraine,Cyprus,29,89,0,0,0,0,0
+2014,UKR,CZE,Ukraine,Czechia,292,174,0,0,0,0,0
+2014,UKR,DNK,Ukraine,Denmark,12,47,0,0,0,0,0
+2014,UKR,EST,Ukraine,Estonia,0,44,0,0,0,0,0
+2014,UKR,FJI,Ukraine,Fiji,0,6,0,0,0,0,0
+2014,UKR,FIN,Ukraine,Finland,9,54,0,0,0,0,0
+2014,UKR,FRA,Ukraine,France,737,1239,0,0,0,0,0
+2014,UKR,GBR,Ukraine,United Kingdom of Great Britain and Northern Ireland,85,187,0,0,0,0,0
+2014,UKR,GEO,Ukraine,Georgia,0,354,0,0,0,0,0
+2014,UKR,DEU,Ukraine,Germany,299,2772,0,0,0,0,0
+2014,UKR,GRC,Ukraine,Greece,10,48,0,0,0,0,0
+2014,UKR,HRV,Ukraine,Croatia,5,5,0,0,0,0,0
+2014,UKR,HUN,Ukraine,Hungary,10,7,0,0,0,0,0
+2014,UKR,ISL,Ukraine,Iceland,6,10,0,0,0,0,0
+2014,UKR,IND,Ukraine,India,0,5,0,0,0,0,0
+2014,UKR,IRL,Ukraine,Ireland,97,57,0,0,0,0,0
+2014,UKR,ITA,Ukraine,Italy,236,1556,0,0,0,0,0
+2014,UKR,JOR,Ukraine,Jordan,0,5,0,0,0,0,0
+2014,UKR,KAZ,Ukraine,Kazakhstan,0,21,0,0,0,0,0
+2014,UKR,KGZ,Ukraine,Kyrgyzstan,0,18,0,0,0,0,0
+2014,UKR,KOR,Ukraine,Republic of Korea,0,7,0,0,0,0,0
+2014,UKR,LBN,Ukraine,Lebanon,0,5,0,0,0,5,0
+2014,UKR,LTU,Ukraine,Lithuania,34,21,0,0,0,0,0
+2014,UKR,LUX,Ukraine,Luxembourg,5,22,0,0,0,0,0
+2014,UKR,LVA,Ukraine,Latvia,0,52,0,0,0,0,0
+2014,UKR,MDA,Ukraine,Republic of Moldova,17,83,0,0,0,0,0
+2014,UKR,MEX,Ukraine,Mexico,0,10,0,0,0,0,0
+2014,UKR,MLT,Ukraine,Malta,27,5,0,0,0,0,0
+2014,UKR,NLD,Ukraine,Netherlands,52,105,0,0,0,0,0
+2014,UKR,NOR,Ukraine,Norway,8,39,0,0,0,0,0
+2014,UKR,PER,Ukraine,Peru,5,0,0,0,0,0,0
+2014,UKR,POL,Ukraine,Poland,35,1077,0,0,0,0,0
+2014,UKR,PRT,Ukraine,Portugal,16,137,0,0,0,0,0
+2014,UKR,ROU,Ukraine,Romania,13,10,0,0,0,0,0
+2014,UKR,ZAF,Ukraine,South Africa,8,5,0,0,0,0,0
+2014,UKR,RUS,Ukraine,Russian Federation,231787,2229,0,0,0,0,0
+2014,UKR,ESP,Ukraine,Spain,5,689,0,0,0,0,0
+2014,UKR,SRB,Ukraine,Serbia,0,5,0,0,0,0,0
+2014,UKR,SVK,Ukraine,Slovakia,17,0,0,0,0,0,0
+2014,UKR,SVN,Ukraine,Slovenia,0,8,0,0,0,0,0
+2014,UKR,SWE,Ukraine,Sweden,114,1094,0,0,0,0,0
+2014,UKR,CHE,Ukraine,Switzerland,17,132,0,0,0,0,0
+2014,UKR,UKR,Ukraine,Ukraine,0,0,0,823000,0,0,0
+2014,UKR,URY,Ukraine,Uruguay,11,0,0,0,0,0,0
+2014,UKR,USA,Ukraine,United States of America,1424,1806,0,0,0,0,0
+2015,UKR,ARG,Ukraine,Argentina,44,146,0,0,0,0,0
+2015,UKR,ARM,Ukraine,Armenia,109,0,0,0,0,0,0
+2015,UKR,AUS,Ukraine,Australia,21,68,0,0,0,0,0
+2015,UKR,AUT,Ukraine,Austria,287,756,0,0,0,0,0
+2015,UKR,AZE,Ukraine,Azerbaijan,15,0,0,0,0,0,0
+2015,UKR,BEL,Ukraine,Belgium,122,234,0,0,0,0,0
+2015,UKR,BLR,Ukraine,Belarus,1089,209,0,0,0,0,0
+2015,UKR,BRA,Ukraine,Brazil,5,45,0,0,0,0,0
+2015,UKR,BGR,Ukraine,Bulgaria,0,75,0,0,0,0,0
+2015,UKR,CAN,Ukraine,Canada,1314,236,0,0,0,0,0
+2015,UKR,CHL,Ukraine,Chile,0,8,0,0,0,0,0
+2015,UKR,CRI,Ukraine,Costa Rica,12,5,0,0,0,0,0
+2015,UKR,CYP,Ukraine,Cyprus,29,125,0,0,0,0,0
+2015,UKR,CZE,Ukraine,Czechia,444,241,0,0,0,0,0
+2015,UKR,DNK,Ukraine,Denmark,15,49,0,0,0,0,0
+2015,UKR,DOM,Ukraine,Dominican Republic,0,5,0,0,0,0,0
+2015,UKR,EST,Ukraine,Estonia,59,33,0,0,0,0,0
+2015,UKR,FJI,Ukraine,Fiji,0,6,0,0,0,0,0
+2015,UKR,FIN,Ukraine,Finland,10,44,0,0,0,0,0
+2015,UKR,FRA,Ukraine,France,1038,1533,0,0,0,0,0
+2015,UKR,GBR,Ukraine,United Kingdom of Great Britain and Northern Ireland,85,139,0,0,0,0,0
+2015,UKR,GEO,Ukraine,Georgia,668,38,0,0,0,0,0
+2015,UKR,DEU,Ukraine,Germany,320,6628,0,0,0,0,0
+2015,UKR,GRC,Ukraine,Greece,85,124,0,0,0,0,0
+2015,UKR,HRV,Ukraine,Croatia,5,5,0,0,0,0,0
+2015,UKR,HUN,Ukraine,Hungary,17,11,0,0,0,0,0
+2015,UKR,ISL,Ukraine,Iceland,12,0,0,0,0,0,0
+2015,UKR,IND,Ukraine,India,0,13,0,0,0,0,0
+2015,UKR,IRL,Ukraine,Ireland,103,91,0,0,0,0,0
+2015,UKR,ITA,Ukraine,Italy,1870,3106,0,0,0,0,0
+2015,UKR,JOR,Ukraine,Jordan,0,25,0,0,0,0,0
+2015,UKR,JPN,Ukraine,Japan,0,22,0,0,0,0,0
+2015,UKR,KAZ,Ukraine,Kazakhstan,0,18,0,0,0,0,0
+2015,UKR,KGZ,Ukraine,Kyrgyzstan,10,10,0,0,0,0,0
+2015,UKR,KOR,Ukraine,Republic of Korea,5,17,0,0,0,0,0
+2015,UKR,KWT,Ukraine,Kuwait,0,5,0,0,0,0,0
+2015,UKR,LBN,Ukraine,Lebanon,0,0,0,0,0,5,0
+2015,UKR,LIE,Ukraine,Liechtenstein,0,10,0,0,0,0,0
+2015,UKR,LTU,Ukraine,Lithuania,60,13,0,0,0,0,0
+2015,UKR,LUX,Ukraine,Luxembourg,6,26,0,0,0,0,0
+2015,UKR,LVA,Ukraine,Latvia,0,5,0,0,0,0,0
+2015,UKR,MRT,Ukraine,Mauritania,5,0,0,0,0,0,0
+2015,UKR,MDA,Ukraine,Republic of Moldova,102,51,0,0,0,0,0
+2015,UKR,MEX,Ukraine,Mexico,5,0,0,0,0,0,0
+2015,UKR,MNE,Ukraine,Montenegro,0,7,0,0,0,0,0
+2015,UKR,MLT,Ukraine,Malta,78,23,0,0,0,0,0
+2015,UKR,NLD,Ukraine,Netherlands,39,315,0,0,0,0,0
+2015,UKR,NOR,Ukraine,Norway,0,35,0,0,0,0,0
+2015,UKR,PER,Ukraine,Peru,11,0,0,0,0,0,0
+2015,UKR,POL,Ukraine,Poland,41,719,0,0,0,0,0
+2015,UKR,PRT,Ukraine,Portugal,134,219,0,0,0,0,0
+2015,UKR,ROU,Ukraine,Romania,37,9,0,0,0,0,0
+2015,UKR,ZAF,Ukraine,South Africa,8,13,0,0,0,0,0
+2015,UKR,RUS,Ukraine,Russian Federation,311407,1097,0,0,0,0,0
+2015,UKR,SRB,Ukraine,Serbia,9,0,0,0,0,0,0
+2015,UKR,SVK,Ukraine,Slovakia,18,0,0,0,0,0,0
+2015,UKR,SWE,Ukraine,Sweden,133,1697,0,0,0,0,0
+2015,UKR,CHE,Ukraine,Switzerland,16,182,0,0,0,0,0
+2015,UKR,UKR,Ukraine,Ukraine,0,0,0,1600000,0,0,0
+2015,UKR,URY,Ukraine,Uruguay,11,0,0,0,0,0,0
+2015,UKR,USA,Ukraine,United States of America,1486,3859,0,0,0,0,0
+2016,UKR,ARG,Ukraine,Argentina,83,184,0,0,0,0,0
+2016,UKR,ARM,Ukraine,Armenia,113,5,0,0,0,0,0
+2016,UKR,AUS,Ukraine,Australia,20,68,0,0,0,0,0
+2016,UKR,AUT,Ukraine,Austria,301,846,0,0,0,0,0
+2016,UKR,AZE,Ukraine,Azerbaijan,9,0,0,0,0,0,0
+2016,UKR,BEL,Ukraine,Belgium,166,220,0,0,0,0,0
+2016,UKR,BLR,Ukraine,Belarus,1184,178,0,0,0,0,0
+2016,UKR,BRA,Ukraine,Brazil,7,48,0,0,0,0,0
+2016,UKR,BGR,Ukraine,Bulgaria,0,78,0,0,0,0,0
+2016,UKR,CAN,Ukraine,Canada,1077,338,0,0,0,0,0
+2016,UKR,CHL,Ukraine,Chile,0,5,0,0,0,0,0
+2016,UKR,CRI,Ukraine,Costa Rica,14,0,0,0,0,0,0
+2016,UKR,CYP,Ukraine,Cyprus,29,121,0,0,0,0,0
+2016,UKR,CZE,Ukraine,Czechia,444,232,0,0,0,0,0
+2016,UKR,DNK,Ukraine,Denmark,25,53,0,0,0,0,0
+2016,UKR,DOM,Ukraine,Dominican Republic,5,0,0,0,0,0,0
+2016,UKR,EST,Ukraine,Estonia,80,0,0,0,0,0,0
+2016,UKR,FIN,Ukraine,Finland,10,24,0,0,0,0,0
+2016,UKR,FRA,Ukraine,France,1382,636,0,0,0,0,0
+2016,UKR,GBR,Ukraine,United Kingdom of Great Britain and Northern Ireland,90,96,0,0,0,0,0
+2016,UKR,GEO,Ukraine,Georgia,702,14,0,0,0,0,0
+2016,UKR,DEU,Ukraine,Germany,355,6346,0,0,0,0,0
+2016,UKR,GRC,Ukraine,Greece,112,144,0,0,0,0,0
+2016,UKR,HRV,Ukraine,Croatia,5,0,0,0,0,0,0
+2016,UKR,HUN,Ukraine,Hungary,19,5,0,0,0,0,0
+2016,UKR,ISL,Ukraine,Iceland,15,0,0,0,0,0,0
+2016,UKR,IND,Ukraine,India,0,8,0,0,0,0,0
+2016,UKR,IRL,Ukraine,Ireland,108,69,0,0,0,0,0
+2016,UKR,ISR,Ukraine,Israel,0,6797,0,0,0,0,0
+2016,UKR,ITA,Ukraine,Italy,3720,2544,0,0,0,0,0
+2016,UKR,JOR,Ukraine,Jordan,0,27,0,0,0,0,0
+2016,UKR,KAZ,Ukraine,Kazakhstan,0,18,0,0,0,0,0
+2016,UKR,KGZ,Ukraine,Kyrgyzstan,14,5,0,0,0,0,0
+2016,UKR,KOR,Ukraine,Republic of Korea,8,11,0,0,0,0,0
+2016,UKR,KWT,Ukraine,Kuwait,0,5,0,0,0,0,0
+2016,UKR,LBN,Ukraine,Lebanon,0,5,0,0,0,5,0
+2016,UKR,LIE,Ukraine,Liechtenstein,5,12,0,0,0,0,0
+2016,UKR,LTU,Ukraine,Lithuania,61,5,0,0,0,0,0
+2016,UKR,LUX,Ukraine,Luxembourg,6,40,0,0,0,0,0
+2016,UKR,MRT,Ukraine,Mauritania,5,0,0,0,0,0,0
+2016,UKR,MDA,Ukraine,Republic of Moldova,74,31,0,0,0,0,0
+2016,UKR,MEX,Ukraine,Mexico,6,0,0,0,0,0,0
+2016,UKR,MNE,Ukraine,Montenegro,0,5,0,0,0,0,0
+2016,UKR,MLT,Ukraine,Malta,109,64,0,0,0,0,0
+2016,UKR,NLD,Ukraine,Netherlands,32,64,0,0,0,0,0
+2016,UKR,NOR,Ukraine,Norway,9,8,0,0,0,0,0
+2016,UKR,PAN,Ukraine,Panama,0,6,0,0,0,0,0
+2016,UKR,PER,Ukraine,Peru,14,0,0,0,0,0,0
+2016,UKR,POL,Ukraine,Poland,114,520,0,0,0,0,0
+2016,UKR,PRT,Ukraine,Portugal,328,99,0,0,0,0,0
+2016,UKR,ROU,Ukraine,Romania,39,0,0,0,0,0,0
+2016,UKR,ZAF,Ukraine,South Africa,6,8,0,0,0,0,0
+2016,UKR,RUS,Ukraine,Russian Federation,226232,2183,0,0,0,0,0
+2016,UKR,ESP,Ukraine,Spain,68,5555,0,0,0,0,0
+2016,UKR,SRB,Ukraine,Serbia,14,0,0,0,0,0,0
+2016,UKR,SVK,Ukraine,Slovakia,21,0,0,0,0,0,0
+2016,UKR,SWE,Ukraine,Sweden,203,810,0,0,0,0,0
+2016,UKR,CHE,Ukraine,Switzerland,35,113,0,0,0,0,0
+2016,UKR,UKR,Ukraine,Ukraine,0,0,0,1800000,0,0,0
+2016,UKR,URY,Ukraine,Uruguay,11,0,0,0,0,0,0
+2016,UKR,USA,Ukraine,United States of America,1573,5985,0,0,0,0,0
+2017,UKR,ARG,Ukraine,Argentina,94,159,0,0,0,0,0
+2017,UKR,ARM,Ukraine,Armenia,113,0,0,0,0,0,0
+2017,UKR,AUS,Ukraine,Australia,18,82,0,0,0,0,0
+2017,UKR,AUT,Ukraine,Austria,292,770,0,0,0,0,0
+2017,UKR,AZE,Ukraine,Azerbaijan,6,0,0,0,0,0,0
+2017,UKR,BEL,Ukraine,Belgium,166,195,0,0,0,0,0
+2017,UKR,BLR,Ukraine,Belarus,1694,255,0,0,0,0,0
+2017,UKR,BRA,Ukraine,Brazil,10,65,0,0,0,0,0
+2017,UKR,BGR,Ukraine,Bulgaria,0,50,0,0,0,0,0
+2017,UKR,CAN,Ukraine,Canada,1126,432,0,0,0,0,0
+2017,UKR,CRI,Ukraine,Costa Rica,17,0,0,0,0,0,0
+2017,UKR,CYP,Ukraine,Cyprus,30,110,0,0,0,0,0
+2017,UKR,CZE,Ukraine,Czechia,444,186,0,0,0,0,0
+2017,UKR,DNK,Ukraine,Denmark,26,43,0,0,0,0,0
+2017,UKR,DOM,Ukraine,Dominican Republic,5,0,0,0,0,0,0
+2017,UKR,ECU,Ukraine,Ecuador,0,14,0,0,0,0,0
+2017,UKR,EST,Ukraine,Estonia,88,0,0,0,0,0,0
+2017,UKR,FIN,Ukraine,Finland,10,21,0,0,0,0,0
+2017,UKR,FRA,Ukraine,France,1605,439,0,0,0,0,0
+2017,UKR,GBR,Ukraine,United Kingdom of Great Britain and Northern Ireland,110,137,0,0,0,0,0
+2017,UKR,GEO,Ukraine,Georgia,654,5,0,0,0,0,0
+2017,UKR,DEU,Ukraine,Germany,631,3963,0,0,0,0,0
+2017,UKR,GRC,Ukraine,Greece,134,99,0,0,0,0,0
+2017,UKR,HRV,Ukraine,Croatia,5,0,0,0,0,0,0
+2017,UKR,HUN,Ukraine,Hungary,19,0,0,0,0,0,0
+2017,UKR,ISL,Ukraine,Iceland,15,6,0,0,0,0,0
+2017,UKR,IND,Ukraine,India,0,6,0,0,0,0,0
+2017,UKR,IRL,Ukraine,Ireland,110,66,0,0,0,0,0
+2017,UKR,ISR,Ukraine,Israel,0,11507,0,0,0,0,0
+2017,UKR,ITA,Ukraine,Italy,4947,4453,0,0,0,0,0
+2017,UKR,JOR,Ukraine,Jordan,0,17,0,0,0,0,0
+2017,UKR,KGZ,Ukraine,Kyrgyzstan,17,9,0,0,0,0,0
+2017,UKR,KOR,Ukraine,Republic of Korea,12,18,0,0,0,0,0
+2017,UKR,KWT,Ukraine,Kuwait,0,5,0,0,0,0,0
+2017,UKR,LBN,Ukraine,Lebanon,0,5,0,0,0,5,0
+2017,UKR,LIE,Ukraine,Liechtenstein,5,5,0,0,0,0,0
+2017,UKR,LTU,Ukraine,Lithuania,63,21,0,0,0,0,0
+2017,UKR,LUX,Ukraine,Luxembourg,6,40,0,0,0,0,0
+2017,UKR,MRT,Ukraine,Mauritania,5,0,0,0,0,0,0
+2017,UKR,MDA,Ukraine,Republic of Moldova,60,16,0,0,0,0,0
+2017,UKR,MEX,Ukraine,Mexico,9,0,0,0,0,0,0
+2017,UKR,MLT,Ukraine,Malta,120,68,0,0,0,0,0
+2017,UKR,NLD,Ukraine,Netherlands,23,32,0,0,0,0,0
+2017,UKR,NOR,Ukraine,Norway,9,0,0,0,0,0,0
+2017,UKR,NZL,Ukraine,New Zealand,0,5,0,0,0,0,0
+2017,UKR,PAN,Ukraine,Panama,0,5,0,0,0,0,0
+2017,UKR,PER,Ukraine,Peru,15,0,0,0,0,0,0
+2017,UKR,POL,Ukraine,Poland,369,333,0,0,0,0,0
+2017,UKR,PRT,Ukraine,Portugal,373,0,0,0,0,0,0
+2017,UKR,ROU,Ukraine,Romania,37,5,0,0,0,0,0
+2017,UKR,RUS,Ukraine,Russian Federation,123600,1512,0,0,0,0,0
+2017,UKR,ESP,Ukraine,Spain,368,4466,0,0,0,0,0
+2017,UKR,SRB,Ukraine,Serbia,15,0,0,0,0,0,0
+2017,UKR,SVK,Ukraine,Slovakia,23,0,0,0,0,0,0
+2017,UKR,SVN,Ukraine,Slovenia,5,0,0,0,0,0,0
+2017,UKR,SWE,Ukraine,Sweden,208,387,0,0,0,0,0
+2017,UKR,CHE,Ukraine,Switzerland,42,84,0,0,0,0,0
+2017,UKR,THA,Ukraine,Thailand,5,0,0,0,0,0,0
+2017,UKR,UKR,Ukraine,Ukraine,0,0,0,1800000,0,0,0
+2017,UKR,URY,Ukraine,Uruguay,11,0,0,0,0,0,0
+2017,UKR,USA,Ukraine,United States of America,1812,7574,0,0,0,0,0
+2018,UKR,ARG,Ukraine,Argentina,106,125,0,0,0,0,0
+2018,UKR,ARM,Ukraine,Armenia,115,5,0,0,0,0,0
+2018,UKR,AUS,Ukraine,Australia,22,87,0,0,0,0,0
+2018,UKR,AUT,Ukraine,Austria,282,537,0,0,0,0,0
+2018,UKR,AZE,Ukraine,Azerbaijan,5,0,0,0,0,0,0
+2018,UKR,BEL,Ukraine,Belgium,166,185,0,0,0,0,0
+2018,UKR,BLR,Ukraine,Belarus,1804,133,0,0,0,0,0
+2018,UKR,BRA,Ukraine,Brazil,14,65,0,0,0,0,0
+2018,UKR,BGR,Ukraine,Bulgaria,0,40,0,0,0,0,0
+2018,UKR,CAN,Ukraine,Canada,1319,298,0,0,0,0,0
+2018,UKR,CRI,Ukraine,Costa Rica,17,0,0,0,0,0,0
+2018,UKR,CYP,Ukraine,Cyprus,30,120,0,0,0,0,0
+2018,UKR,CZE,Ukraine,Czechia,318,241,0,0,0,0,0
+2018,UKR,DNK,Ukraine,Denmark,27,46,0,0,0,0,0
+2018,UKR,ECU,Ukraine,Ecuador,14,0,0,0,0,0,0
+2018,UKR,EST,Ukraine,Estonia,64,9,0,0,0,0,0
+2018,UKR,FIN,Ukraine,Finland,8,38,0,0,0,0,0
+2018,UKR,FRA,Ukraine,France,1715,703,0,0,0,0,0
+2018,UKR,GBR,Ukraine,United Kingdom of Great Britain and Northern Ireland,144,178,0,0,0,0,0
+2018,UKR,GEO,Ukraine,Georgia,617,10,0,0,0,0,0
+2018,UKR,DEU,Ukraine,Germany,741,3149,0,0,0,0,0
+2018,UKR,GRC,Ukraine,Greece,145,117,0,0,0,0,0
+2018,UKR,HRV,Ukraine,Croatia,8,5,0,0,0,0,0
+2018,UKR,HUN,Ukraine,Hungary,19,0,0,0,0,0,0
+2018,UKR,ISL,Ukraine,Iceland,17,24,0,0,0,0,0
+2018,UKR,IND,Ukraine,India,0,7,0,0,0,0,0
+2018,UKR,IRL,Ukraine,Ireland,78,53,0,0,0,0,0
+2018,UKR,ISR,Ukraine,Israel,0,7857,0,0,0,0,0
+2018,UKR,ITA,Ukraine,Italy,5861,4164,0,0,0,0,0
+2018,UKR,JOR,Ukraine,Jordan,0,18,0,0,0,0,0
+2018,UKR,KGZ,Ukraine,Kyrgyzstan,19,6,0,0,0,0,0
+2018,UKR,KOR,Ukraine,Republic of Korea,14,59,0,0,0,0,0
+2018,UKR,KWT,Ukraine,Kuwait,0,5,0,0,0,0,0
+2018,UKR,LBN,Ukraine,Lebanon,0,5,0,0,0,0,0
+2018,UKR,LIE,Ukraine,Liechtenstein,5,9,0,0,0,0,0
+2018,UKR,LTU,Ukraine,Lithuania,64,7,0,0,0,0,0
+2018,UKR,LUX,Ukraine,Luxembourg,6,20,0,0,0,0,0
+2018,UKR,MRT,Ukraine,Mauritania,5,0,0,0,0,0,0
+2018,UKR,MDA,Ukraine,Republic of Moldova,58,10,0,0,0,0,0
+2018,UKR,MEX,Ukraine,Mexico,18,5,0,0,0,0,0
+2018,UKR,MLT,Ukraine,Malta,136,43,0,0,0,0,0
+2018,UKR,NLD,Ukraine,Netherlands,23,31,0,0,0,0,0
+2018,UKR,NOR,Ukraine,Norway,10,14,0,0,0,0,0
+2018,UKR,PAN,Ukraine,Panama,0,5,0,0,0,0,0
+2018,UKR,PER,Ukraine,Peru,16,0,0,0,0,0,0
+2018,UKR,POL,Ukraine,Poland,464,309,0,0,0,0,0
+2018,UKR,PRT,Ukraine,Portugal,423,15,0,0,0,0,0
+2018,UKR,ROU,Ukraine,Romania,28,7,0,0,0,0,0
+2018,UKR,RUS,Ukraine,Russian Federation,75146,795,0,0,0,0,0
+2018,UKR,ESP,Ukraine,Spain,562,4300,0,0,0,0,0
+2018,UKR,SRB,Ukraine,Serbia,15,0,0,0,0,0,0
+2018,UKR,SVK,Ukraine,Slovakia,23,0,0,0,0,0,0
+2018,UKR,SVN,Ukraine,Slovenia,5,0,0,0,0,0,0
+2018,UKR,SWE,Ukraine,Sweden,215,445,0,0,0,0,0
+2018,UKR,CHE,Ukraine,Switzerland,56,0,0,0,0,0,0
+2018,UKR,UKR,Ukraine,Ukraine,0,0,0,1500002,0,0,0
+2018,UKR,URY,Ukraine,Uruguay,11,0,0,0,0,0,0
+2018,UKR,USA,Ukraine,United States of America,2270,7661,0,0,0,0,0
+2019,UKR,ARG,Ukraine,Argentina,117,91,0,0,0,0,0
+2019,UKR,ARM,Ukraine,Armenia,116,5,0,0,0,0,0
+2019,UKR,AUS,Ukraine,Australia,24,118,0,0,0,0,0
+2019,UKR,AUT,Ukraine,Austria,265,313,0,0,0,0,0
+2019,UKR,AZE,Ukraine,Azerbaijan,5,0,0,0,0,0,0
+2019,UKR,BEL,Ukraine,Belgium,254,105,0,0,0,0,0
+2019,UKR,BLR,Ukraine,Belarus,2300,98,0,0,0,0,0
+2019,UKR,BOL,Ukraine,Bolivia (Plurinational State of),5,0,0,0,0,0,0
+2019,UKR,BRA,Ukraine,Brazil,17,79,0,0,0,0,0
+2019,UKR,BGR,Ukraine,Bulgaria,0,40,0,0,0,0,0
+2019,UKR,CAN,Ukraine,Canada,1199,307,0,0,0,0,0
+2019,UKR,CRI,Ukraine,Costa Rica,13,0,0,0,0,0,0
+2019,UKR,CYP,Ukraine,Cyprus,30,135,0,0,0,0,0
+2019,UKR,CZE,Ukraine,Czechia,305,146,0,0,0,0,0
+2019,UKR,DNK,Ukraine,Denmark,28,29,0,0,0,0,0
+2019,UKR,ECU,Ukraine,Ecuador,14,0,0,0,0,0,0
+2019,UKR,EST,Ukraine,Estonia,62,0,0,0,0,0,0
+2019,UKR,FIN,Ukraine,Finland,11,25,0,0,0,0,0
+2019,UKR,FRA,Ukraine,France,1839,1020,0,0,0,0,0
+2019,UKR,GBR,Ukraine,United Kingdom of Great Britain and Northern Ireland,185,233,0,0,0,0,0
+2019,UKR,GEO,Ukraine,Georgia,306,6,0,0,0,252,0
+2019,UKR,DEU,Ukraine,Germany,847,2312,0,0,0,0,0
+2019,UKR,GRC,Ukraine,Greece,151,97,0,0,0,0,0
+2019,UKR,HRV,Ukraine,Croatia,8,0,0,0,0,0,0
+2019,UKR,HUN,Ukraine,Hungary,15,0,0,0,0,0,0
+2019,UKR,ISL,Ukraine,Iceland,18,5,0,0,0,0,0
+2019,UKR,IND,Ukraine,India,0,9,0,0,0,0,0
+2019,UKR,IRL,Ukraine,Ireland,81,33,0,0,0,0,0
+2019,UKR,ISR,Ukraine,Israel,5,5056,0,0,0,0,0
+2019,UKR,ITA,Ukraine,Italy,6353,1189,0,0,0,0,0
+2019,UKR,JOR,Ukraine,Jordan,0,19,0,0,0,0,0
+2019,UKR,KGZ,Ukraine,Kyrgyzstan,23,0,0,0,0,0,0
+2019,UKR,KOR,Ukraine,Republic of Korea,14,64,0,0,0,0,0
+2019,UKR,KWT,Ukraine,Kuwait,0,5,0,0,0,0,0
+2019,UKR,LBN,Ukraine,Lebanon,0,0,0,0,0,5,0
+2019,UKR,LIE,Ukraine,Liechtenstein,5,0,0,0,0,0,0
+2019,UKR,LTU,Ukraine,Lithuania,64,5,0,0,0,0,0
+2019,UKR,LUX,Ukraine,Luxembourg,6,25,0,0,0,0,0
+2019,UKR,MRT,Ukraine,Mauritania,5,0,0,0,0,0,0
+2019,UKR,MDA,Ukraine,Republic of Moldova,53,5,0,0,0,0,0
+2019,UKR,MEX,Ukraine,Mexico,17,5,0,0,0,0,0
+2019,UKR,MLT,Ukraine,Malta,142,59,0,0,0,0,0
+2019,UKR,NLD,Ukraine,Netherlands,20,59,0,0,0,0,0
+2019,UKR,NOR,Ukraine,Norway,10,15,0,0,0,0,0
+2019,UKR,PAN,Ukraine,Panama,0,5,0,0,0,0,0
+2019,UKR,PER,Ukraine,Peru,17,0,0,0,0,0,0
+2019,UKR,POL,Ukraine,Poland,485,515,0,0,0,0,0
+2019,UKR,PRT,Ukraine,Portugal,436,93,0,0,0,0,0
+2019,UKR,ROU,Ukraine,Romania,22,5,0,0,0,0,0
+2019,UKR,ZAF,Ukraine,South Africa,5,0,0,0,0,0,0
+2019,UKR,RUS,Ukraine,Russian Federation,40393,858,0,0,0,0,0
+2019,UKR,ESP,Ukraine,Spain,631,6460,0,0,0,0,0
+2019,UKR,SRB,Ukraine,Serbia,15,0,0,0,0,0,0
+2019,UKR,SVK,Ukraine,Slovakia,24,0,0,0,0,0,0
+2019,UKR,SVN,Ukraine,Slovenia,5,0,0,0,0,0,0
+2019,UKR,SWE,Ukraine,Sweden,223,471,0,0,0,0,0
+2019,UKR,CHE,Ukraine,Switzerland,65,50,0,0,0,0,0
+2019,UKR,UKR,Ukraine,Ukraine,0,0,0,734000,0,1680000,0
+2019,UKR,URY,Ukraine,Uruguay,11,5,0,0,0,0,0
+2019,UKR,USA,Ukraine,United States of America,2580,7817,0,0,0,0,0
+2020,UKR,ARG,Ukraine,Argentina,118,88,0,0,0,0,0
+2020,UKR,ARM,Ukraine,Armenia,115,0,0,0,0,0,0
+2020,UKR,AUS,Ukraine,Australia,24,97,0,0,0,0,0
+2020,UKR,AUT,Ukraine,Austria,251,182,0,0,0,0,0
+2020,UKR,AZE,Ukraine,Azerbaijan,5,0,0,0,0,0,0
+2020,UKR,BEL,Ukraine,Belgium,254,155,0,0,0,0,0
+2020,UKR,BLR,Ukraine,Belarus,2471,96,0,0,0,0,0
+2020,UKR,BOL,Ukraine,Bolivia (Plurinational State of),5,0,0,0,0,0,0
+2020,UKR,BRA,Ukraine,Brazil,19,80,0,0,0,0,0
+2020,UKR,BGR,Ukraine,Bulgaria,0,32,0,0,0,0,0
+2020,UKR,CAN,Ukraine,Canada,1205,190,0,0,0,0,0
+2020,UKR,CRI,Ukraine,Costa Rica,13,0,0,0,0,0,0
+2020,UKR,CYP,Ukraine,Cyprus,30,139,0,0,0,0,0
+2020,UKR,CZE,Ukraine,Czechia,284,121,0,0,0,0,0
+2020,UKR,DNK,Ukraine,Denmark,29,28,0,0,0,0,0
+2020,UKR,ECU,Ukraine,Ecuador,15,5,0,0,0,0,0
+2020,UKR,EST,Ukraine,Estonia,29,0,0,0,0,0,0
+2020,UKR,FIN,Ukraine,Finland,11,43,0,0,0,0,0
+2020,UKR,FRA,Ukraine,France,1921,1940,0,0,0,0,0
+2020,UKR,GBR,Ukraine,United Kingdom of Great Britain and Northern Ireland,208,228,0,0,0,0,0
+2020,UKR,GEO,Ukraine,Georgia,493,13,0,0,0,0,0
+2020,UKR,DEU,Ukraine,Germany,895,1519,0,0,0,0,0
+2020,UKR,GRC,Ukraine,Greece,158,63,0,0,0,0,0
+2020,UKR,HRV,Ukraine,Croatia,8,0,0,0,0,0,0
+2020,UKR,HUN,Ukraine,Hungary,14,0,0,0,0,0,0
+2020,UKR,ISL,Ukraine,Iceland,19,0,0,0,0,0,0
+2020,UKR,IND,Ukraine,India,0,5,0,0,0,0,0
+2020,UKR,IRL,Ukraine,Ireland,85,19,0,0,0,0,0
+2020,UKR,ISR,Ukraine,Israel,27,1829,0,0,0,0,0
+2020,UKR,ITA,Ukraine,Italy,2920,961,0,0,0,0,0
+2020,UKR,JOR,Ukraine,Jordan,0,10,0,0,0,0,0
+2020,UKR,KGZ,Ukraine,Kyrgyzstan,21,0,0,0,0,0,0
+2020,UKR,KOR,Ukraine,Republic of Korea,14,30,0,0,0,0,0
+2020,UKR,KWT,Ukraine,Kuwait,0,5,0,0,0,0,0
+2020,UKR,LBN,Ukraine,Lebanon,0,0,0,0,0,5,0
+2020,UKR,LIE,Ukraine,Liechtenstein,5,0,0,0,0,0,0
+2020,UKR,LTU,Ukraine,Lithuania,64,5,0,0,0,0,0
+2020,UKR,LUX,Ukraine,Luxembourg,5,5,0,0,0,0,0
+2020,UKR,MDA,Ukraine,Republic of Moldova,33,5,0,0,0,0,0
+2020,UKR,MEX,Ukraine,Mexico,17,5,0,0,0,0,0
+2020,UKR,MLT,Ukraine,Malta,141,44,0,0,0,0,0
+2020,UKR,NLD,Ukraine,Netherlands,21,21,0,0,0,0,0
+2020,UKR,NOR,Ukraine,Norway,10,9,0,0,0,0,0
+2020,UKR,PAN,Ukraine,Panama,0,5,0,0,0,0,0
+2020,UKR,PER,Ukraine,Peru,17,0,0,0,0,0,0
+2020,UKR,POL,Ukraine,Poland,416,305,0,0,0,0,0
+2020,UKR,PRT,Ukraine,Portugal,443,59,0,0,0,0,0
+2020,UKR,ROU,Ukraine,Romania,20,5,0,0,0,0,0
+2020,UKR,ZAF,Ukraine,South Africa,5,0,0,0,0,0,0
+2020,UKR,RUS,Ukraine,Russian Federation,18428,148,0,0,0,0,0
+2020,UKR,ESP,Ukraine,Spain,922,4290,0,0,0,0,0
+2020,UKR,SRB,Ukraine,Serbia,15,0,0,0,0,0,0
+2020,UKR,SVK,Ukraine,Slovakia,24,0,0,0,0,0,0
+2020,UKR,SVN,Ukraine,Slovenia,5,0,0,0,0,0,0
+2020,UKR,SWE,Ukraine,Sweden,232,390,0,0,0,0,0
+2020,UKR,CHE,Ukraine,Switzerland,80,25,0,0,0,0,0
+2020,UKR,UKR,Ukraine,Ukraine,0,0,0,734000,0,1620000,0
+2020,UKR,URY,Ukraine,Uruguay,11,5,0,0,0,0,0
+2020,UKR,USA,Ukraine,United States of America,2581,8222,0,0,0,0,0
+2021,UKR,ARG,Ukraine,Argentina,121,84,0,0,0,0,0
+2021,UKR,ARM,Ukraine,Armenia,117,0,0,0,0,0,0
+2021,UKR,AUS,Ukraine,Australia,18,99,0,0,0,0,0
+2021,UKR,AUT,Ukraine,Austria,253,113,0,0,0,0,0
+2021,UKR,AZE,Ukraine,Azerbaijan,5,0,0,0,0,0,0
+2021,UKR,BEL,Ukraine,Belgium,289,155,0,0,0,0,0
+2021,UKR,BLR,Ukraine,Belarus,2378,14,0,0,0,0,0
+2021,UKR,BOL,Ukraine,Bolivia (Plurinational State of),5,0,0,0,0,0,0
+2021,UKR,BRA,Ukraine,Brazil,20,83,0,0,0,0,0
+2021,UKR,BGR,Ukraine,Bulgaria,0,6,0,0,0,0,0
+2021,UKR,CAN,Ukraine,Canada,1228,98,0,0,0,0,0
+2021,UKR,CRI,Ukraine,Costa Rica,13,5,0,0,0,0,0
+2021,UKR,CYP,Ukraine,Cyprus,31,64,0,0,0,0,0
+2021,UKR,CZE,Ukraine,Czechia,225,120,0,0,0,0,0
+2021,UKR,DNK,Ukraine,Denmark,29,14,0,0,0,0,0
+2021,UKR,ECU,Ukraine,Ecuador,15,0,0,0,0,0,0
+2021,UKR,EST,Ukraine,Estonia,28,0,0,0,0,0,0
+2021,UKR,FIN,Ukraine,Finland,11,14,0,0,0,0,0
+2021,UKR,FRA,Ukraine,France,2801,588,0,0,0,0,0
+2021,UKR,GBR,Ukraine,United Kingdom of Great Britain and Northern Ireland,225,266,0,0,0,0,0
+2021,UKR,GEO,Ukraine,Georgia,481,0,0,0,0,0,0
+2021,UKR,DEU,Ukraine,Germany,918,1328,0,0,0,0,0
+2021,UKR,GRC,Ukraine,Greece,169,99,0,0,0,0,0
+2021,UKR,HRV,Ukraine,Croatia,8,0,0,0,0,0,0
+2021,UKR,HUN,Ukraine,Hungary,13,0,0,0,0,0,0
+2021,UKR,ISL,Ukraine,Iceland,20,0,0,0,0,0,0
+2021,UKR,IND,Ukraine,India,0,5,0,0,0,0,0
+2021,UKR,IRL,Ukraine,Ireland,79,15,0,0,0,0,0
+2021,UKR,ISR,Ukraine,Israel,27,544,0,0,0,0,0
+2021,UKR,ITA,Ukraine,Italy,3379,680,0,0,0,0,0
+2021,UKR,JOR,Ukraine,Jordan,0,9,0,0,0,0,0
+2021,UKR,KGZ,Ukraine,Kyrgyzstan,18,0,0,0,0,0,0
+2021,UKR,KOR,Ukraine,Republic of Korea,14,24,0,0,0,0,0
+2021,UKR,KWT,Ukraine,Kuwait,0,5,0,0,0,0,0
+2021,UKR,LBN,Ukraine,Lebanon,0,0,0,0,0,5,0
+2021,UKR,LIE,Ukraine,Liechtenstein,5,0,0,0,0,0,0
+2021,UKR,LTU,Ukraine,Lithuania,64,5,0,0,0,0,0
+2021,UKR,LUX,Ukraine,Luxembourg,5,10,0,0,0,0,0
+2021,UKR,LVA,Ukraine,Latvia,0,5,0,0,0,0,0
+2021,UKR,MDA,Ukraine,Republic of Moldova,18,7,0,0,0,0,0
+2021,UKR,MEX,Ukraine,Mexico,19,5,0,0,0,0,0
+2021,UKR,MLT,Ukraine,Malta,142,54,0,0,0,0,0
+2021,UKR,NLD,Ukraine,Netherlands,34,35,0,0,0,0,0
+2021,UKR,NOR,Ukraine,Norway,13,0,0,0,0,0,0
+2021,UKR,PAN,Ukraine,Panama,0,5,0,0,0,0,0
+2021,UKR,PER,Ukraine,Peru,17,0,0,0,0,0,0
+2021,UKR,POL,Ukraine,Poland,422,109,0,0,0,0,0
+2021,UKR,PRT,Ukraine,Portugal,447,40,0,0,0,0,0
+2021,UKR,ROU,Ukraine,Romania,17,0,0,0,0,0,0
+2021,UKR,ZAF,Ukraine,South Africa,5,0,0,0,0,0,0
+2021,UKR,RUS,Ukraine,Russian Federation,8921,126,0,0,0,0,0
+2021,UKR,ESP,Ukraine,Spain,1515,2820,0,0,0,0,0
+2021,UKR,SRB,Ukraine,Serbia,15,0,0,0,0,0,0
+2021,UKR,SVK,Ukraine,Slovakia,24,0,0,0,0,0,0
+2021,UKR,SVN,Ukraine,Slovenia,5,0,0,0,0,0,0
+2021,UKR,SWE,Ukraine,Sweden,226,334,0,0,0,0,0
+2021,UKR,CHE,Ukraine,Switzerland,91,29,0,0,0,0,0
+2021,UKR,UKR,Ukraine,Ukraine,0,0,0,854000,0,1424800,0
+2021,UKR,URY,Ukraine,Uruguay,11,6,0,0,0,0,0
+2021,UKR,USA,Ukraine,United States of America,2608,11404,0,0,0,0,0
+2022,UKR,ALB,Ukraine,Albania,2192,0,0,0,0,0,0
+2022,UKR,ARG,Ukraine,Argentina,121,84,0,0,0,0,0
+2022,UKR,ARM,Ukraine,Armenia,131,217,0,0,0,0,0
+2022,UKR,AUS,Ukraine,Australia,26,267,0,0,0,2943,0
+2022,UKR,AUT,Ukraine,Austria,74689,321,0,0,0,0,0
+2022,UKR,AZE,Ukraine,Azerbaijan,4788,41,0,0,0,0,0
+2022,UKR,BEL,Ukraine,Belgium,48238,160,0,0,0,0,0
+2022,UKR,BLR,Ukraine,Belarus,12231,743,0,0,0,0,0
+2022,UKR,BOL,Ukraine,Bolivia (Plurinational State of),5,0,0,0,0,0,0
+2022,UKR,BRA,Ukraine,Brazil,34,70,0,0,0,0,0
+2022,UKR,BIH,Ukraine,Bosnia and Herzegovina,234,25,0,0,0,37,0
+2022,UKR,BGR,Ukraine,Bulgaria,119450,325,0,0,0,0,0
+2022,UKR,CAN,Ukraine,Canada,149,217,0,0,0,0,0
+2022,UKR,CHL,Ukraine,Chile,0,75,0,0,0,0,0
+2022,UKR,COL,Ukraine,Colombia,0,10,0,0,0,0,0
+2022,UKR,CRI,Ukraine,Costa Rica,13,21,0,0,0,0,0
+2022,UKR,CYP,Ukraine,Cyprus,13707,94,0,0,0,0,0
+2022,UKR,CZE,Ukraine,Czechia,386371,278,0,0,0,0,0
+2022,UKR,DNK,Ukraine,Denmark,27954,1191,0,0,0,0,0
+2022,UKR,ECU,Ukraine,Ecuador,44,16,0,0,0,0,0
+2022,UKR,EST,Ukraine,Estonia,28181,69,0,0,0,0,0
+2022,UKR,FIN,Ukraine,Finland,29172,715,0,0,0,0,0
+2022,UKR,FRA,Ukraine,France,94970,1334,0,0,0,0,0
+2022,UKR,GBR,Ukraine,United Kingdom of Great Britain and Northern Ireland,91223,709,0,0,0,0,0
+2022,UKR,GEO,Ukraine,Georgia,22647,113,0,0,0,0,0
+2022,UKR,DEU,Ukraine,Germany,876311,1512,0,0,0,0,0
+2022,UKR,GHA,Ukraine,Ghana,0,5,0,0,0,0,0
+2022,UKR,GRC,Ukraine,Greece,16882,129,0,0,0,0,0
+2022,UKR,GTM,Ukraine,Guatemala,0,5,0,0,0,0,0
+2022,UKR,HRV,Ukraine,Croatia,15387,0,0,0,0,0,0
+2022,UKR,HUN,Ukraine,Hungary,25982,5,0,0,0,0,0
+2022,UKR,ISL,Ukraine,Iceland,1240,55,0,0,0,0,0
+2022,UKR,IND,Ukraine,India,0,32,0,0,0,0,0
+2022,UKR,IRL,Ukraine,Ireland,41043,205,0,0,0,0,0
+2022,UKR,IRQ,Ukraine,Iraq,0,5,0,0,0,0,0
+2022,UKR,ISR,Ukraine,Israel,27,433,0,0,0,35000,0
+2022,UKR,ITA,Ukraine,Italy,145593,1689,0,0,0,0,0
+2022,UKR,JOR,Ukraine,Jordan,0,9,0,0,0,0,0
+2022,UKR,KAZ,Ukraine,Kazakhstan,0,228,0,0,0,0,0
+2022,UKR,KGZ,Ukraine,Kyrgyzstan,17,6,0,0,0,0,0
+2022,UKR,KOR,Ukraine,Republic of Korea,14,24,0,0,0,0,0
+2022,UKR,KWT,Ukraine,Kuwait,0,5,0,0,0,0,0
+2022,UKR,LBN,Ukraine,Lebanon,0,12,0,0,0,5,0
+2022,UKR,LIE,Ukraine,Liechtenstein,280,0,0,0,0,0,0
+2022,UKR,LTU,Ukraine,Lithuania,47569,9,0,0,0,0,0
+2022,UKR,LUX,Ukraine,Luxembourg,4259,10,0,0,0,0,0
+2022,UKR,LVA,Ukraine,Latvia,34256,5,0,0,0,0,0
+2022,UKR,MKD,Ukraine,Republic of North Macedonia,1174,0,0,0,0,0,0
+2022,UKR,MDA,Ukraine,Republic of Moldova,75762,7108,0,0,0,0,0
+2022,UKR,MEX,Ukraine,Mexico,20,114,0,0,0,17583,0
+2022,UKR,MNE,Ukraine,Montenegro,9133,0,0,0,0,76,0
+2022,UKR,MLT,Ukraine,Malta,1337,112,0,0,0,0,0
+2022,UKR,NLD,Ukraine,Netherlands,67612,96,0,0,0,0,0
+2022,UKR,NOR,Ukraine,Norway,19916,2308,0,0,0,0,0
+2022,UKR,NZL,Ukraine,New Zealand,0,6,0,0,0,0,0
+2022,UKR,PAN,Ukraine,Panama,9,6,0,0,0,0,0
+2022,UKR,PRY,Ukraine,Paraguay,0,5,0,0,0,0,0
+2022,UKR,PER,Ukraine,Peru,23,12,0,0,0,0,0
+2022,UKR,PHL,Ukraine,Philippines,0,5,0,0,0,0,0
+2022,UKR,POL,Ukraine,Poland,1200207,939,0,0,0,0,0
+2022,UKR,PRT,Ukraine,Portugal,38272,195,0,0,0,0,0
+2022,UKR,ROU,Ukraine,Romania,83326,65,0,0,0,0,0
+2022,UKR,ZAF,Ukraine,South Africa,5,0,0,0,0,0,0
+2022,UKR,RUS,Ukraine,Russian Federation,1456250,4400,0,0,0,0,0
+2022,UKR,SAU,Ukraine,Saudi Arabia,0,5,0,0,0,0,0
+2022,UKR,ESP,Ukraine,Spain,128129,1700,0,0,0,0,0
+2022,UKR,SRB,Ukraine,Serbia,772,5,0,0,0,73,0
+2022,UKR,SVK,Ukraine,Slovakia,83297,8,0,0,0,0,0
+2022,UKR,SVN,Ukraine,Slovenia,6652,38,0,0,0,0,0
+2022,UKR,SWE,Ukraine,Sweden,40129,1345,0,0,0,0,0
+2022,UKR,CHE,Ukraine,Switzerland,57697,23,0,0,0,0,0
+2022,UKR,UKR,Ukraine,Ukraine,0,0,0,6275000,0,0,0
+2022,UKR,URY,Ukraine,Uruguay,15,5,0,0,0,0,0
+2022,UKR,USA,Ukraine,United States of America,2794,12142,0,0,0,0,0
