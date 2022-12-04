@@ -1,8 +1,5 @@
-#import dash_core_components as dcc
 from dash import dcc
-#import dash_html_components as html
 from dash import html
-#import dash_table as dt
 from dash import dash_table as dt
 import dash_bootstrap_components as dbc
 from dash.dependencies import Input, Output, State
@@ -58,20 +55,28 @@ layout = dbc.Container([
                 ),
                 html.Br(),
                 dbc.Label('Admin? '),
-                dcc.Dropdown(id='admin',
-                             style={'width': '90%'},
-                             options=[
-                                 {
-                                     'label': 'Yes',
-                                     'value': 1
-                                 },
-                                 {
-                                     'label': 'No',
-                                     'value': 0
-                                 },
-                             ],
-                             value=0,
-                             clearable=False),
+                dcc.Dropdown(
+                    id='admin',
+                    style={
+                        'width': '200px',
+                        'background-color': 'rgb(24,26,27)',
+                        'border': '1px solid rgb(60,65,68)',
+                        'border-radius': '1px',
+                        'color': '#7B8A8B',
+                    },
+                    options=[
+                        {
+                            'label': 'Yes',
+                            'value': 1
+                        },
+                        {
+                            'label': 'No',
+                            'value': 0
+                        },
+                    ],
+                    value=0,
+                    clearable=False,
+                ),
                 html.Br(),
                 html.Br(),
                 html.Button(children='Register',

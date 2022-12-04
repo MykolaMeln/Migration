@@ -1,9 +1,7 @@
-#import dash_core_components as dcc
 from dash import dcc
-#import dash_html_components as html
+
 from dash import html
-import dash_bootstrap_components as dbc
-#import dash_table as dt
+
 from dash import dash_table as dt
 from dash.dependencies import Input, Output, State
 
@@ -11,6 +9,7 @@ from app import app
 from flask_login import current_user
 from model import update_password
 from werkzeug.security import check_password_hash
+import dash_bootstrap_components as dbc
 
 layout = dbc.Container([
     html.Br(),
@@ -112,7 +111,9 @@ def currentUserEmail(pageContent):
 def validateOldPassword(n_clicks, newPassword1Submit, newPassword2Submit,
                         pageContent, oldPassword, newPassword1, newPassword2):
     if (n_clicks > 0) or (newPassword1Submit > 0) or (newPassword2Submit) > 0:
-        if check_password_hash(current_user.password, oldPassword):
+        if check_password_hash(current_user.password,
+                               oldPassword) and (newPassword1 != ''
+                                                 or newPassword2 != ''):
             return 'form-control is-valid'
         else:
             return 'form-control is-invalid'
@@ -130,7 +131,8 @@ def validateOldPassword(n_clicks, newPassword1Submit, newPassword2Submit,
 def validatePassword1(n_clicks, newPassword1Submit, newPassword2Submit,
                       newPassword1, newPassword2):
     if (n_clicks > 0) or (newPassword1Submit > 0) or (newPassword2Submit) > 0:
-        if newPassword1 == newPassword2:
+        if newPassword1 == newPassword2 and (newPassword1 != None
+                                             or newPassword2 != ''):
             return 'form-control is-valid'
         else:
             return 'form-control is-invalid'
@@ -148,7 +150,8 @@ def validatePassword1(n_clicks, newPassword1Submit, newPassword2Submit,
 def validatePassword2(n_clicks, newPassword1Submit, newPassword2Submit,
                       newPassword1, newPassword2):
     if (n_clicks > 0) or (newPassword1Submit > 0) or (newPassword2Submit) > 0:
-        if newPassword1 == newPassword2:
+        if newPassword1 == newPassword2 and (newPassword1 != None
+                                             or newPassword2 != ''):
             return 'form-control is-valid'
         else:
             return 'form-control is-invalid'
@@ -170,8 +173,10 @@ def validatePassword2(n_clicks, newPassword1Submit, newPassword2Submit,
 def changePassword(n_clicks, newPassword1Submit, newPassword2Submit,
                    pageContent, oldPassword, newPassword1, newPassword2):
     if (n_clicks > 0) or (newPassword1Submit > 0) or (newPassword2Submit) > 0:
-        if check_password_hash(current_user.password,
-                               oldPassword) and newPassword1 == newPassword2:
+        if check_password_hash(
+                current_user.password,
+                oldPassword) and newPassword1 == newPassword2 and (
+                    newPassword1 != None or newPassword2 != ''):
             try:
                 update_password(current_user.username, newPassword1)
                 return html.Div(children=['Update Successful'],

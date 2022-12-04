@@ -1,8 +1,5 @@
-#import dash_core_components as dcc
 from dash import dcc
-#import dash_html_components as html
 from dash import html
-#import dash_table as dt
 from dash import dash_table as dt
 import dash_bootstrap_components as dbc
 from dash.dependencies import Input, Output, State
@@ -21,26 +18,33 @@ layout = dbc.Container([
             html.Br(),
             dbc.Container(id='loginType',
                           children=[
-                              dcc.Input(
-                                  placeholder='Enter your username',
-                                  type='text',
-                                  id='usernameBox',
-                                  className='form-control',
-                                  n_submit=0,
-                              ),
+                              dcc.Input(placeholder='Enter your username',
+                                        type='text',
+                                        id='usernameBox',
+                                        className='form-control',
+                                        n_submit=0,
+                                        style={
+                                            'margin-left': '25%',
+                                            'width': '50%',
+                                        }),
                               html.Br(),
-                              dcc.Input(
-                                  placeholder='Enter your password',
-                                  type='password',
-                                  id='passwordBox',
-                                  className='form-control',
-                                  n_submit=0,
-                              ),
+                              dcc.Input(placeholder='Enter your password',
+                                        type='password',
+                                        id='passwordBox',
+                                        className='form-control',
+                                        n_submit=0,
+                                        style={
+                                            'margin-left': '25%',
+                                            'width': '50%',
+                                        }),
                               html.Br(),
                               html.Button(children='Login',
                                           n_clicks=0,
                                           type='submit',
                                           id='loginButton',
+                                          style={
+                                              'margin-left': '45%',
+                                          },
                                           className='btn btn-primary btn-lg'),
                               html.Br(),
                           ],

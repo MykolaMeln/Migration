@@ -10,6 +10,7 @@ from plotly.subplots import make_subplots
 import plotly.graph_objects as go
 from plotly.offline import iplot
 import csv
+from csv import writer
 
 db = SQLAlchemy()
 
@@ -117,9 +118,7 @@ def build_graph():
                              mode='lines',
                              name="2021"),
                   secondary_y=True)
-    fig.update_layout(height=700,
-                      width=1000,
-                      title_text="Count of emigrants in 2019-2021 years",
+    fig.update_layout(title_text="Count of emigrants in 2019-2021 years",
                       template="plotly_dark")
 
     return fig
@@ -148,9 +147,7 @@ def build_diag_m():
                text=Migr.migr_21['All total emigrants'],
                name="2021",
                marker_color="#CA2E55"))
-    fig.update_layout(height=800,
-                      width=1800,
-                      title_text="Count of emigrants in 2019-2021 years",
+    fig.update_layout(title_text="Count of emigrants in 2019-2021 years",
                       template="plotly_dark")
     fig.update_traces(textfont=dict(family="Arial", size=20, color="white"))
 
@@ -159,6 +156,11 @@ def build_diag_m():
 
 class Diagram():
     int_st = pd.read_csv('data/end_year_population_totals_originating_ukr.csv')
+    int_st = int_st.drop(columns=[
+        'Other people in need of international protection',
+        'Internally displaced persons', 'Stateless Persons',
+        'Others of concern to UNHCR', 'Host community'
+    ])
 
     int_st.drop(labels=0,
                 axis=0,
@@ -169,17 +171,39 @@ class Diagram():
                 errors='raise')
 
     int_st = int_st[int_st['Refugees'] != "0"]
-    int_st = int_st[int_st.Year > "2013"]
+    int_st = int_st[int_st.Year > "2002"]
 
 
-def build_diagram():
+def build_diagram(yr):
     fig = go.Figure()
-    fig = px.bar(Diagram.int_st,
-                 x="Country of Asylum Code",
-                 y='Refugees',
-                 color='Year',
-                 text='Year',
-                 title="Refugees in countries")
-    fig.update_layout(height=700, width=1500, template="plotly_dark")
+    fig = px.line(
+        Diagram.int_st.query(f"Year in ('{yr}')"),
+        x='Country of Asylum Code',
+        y='Refugees',
+        color='Year',
+        text='Refugees',
+        title=f"Migration from Ukraine by {yr} year",
+    )
+    fig.update_layout(autotypenumbers='convert types', template="plotly_dark")
 
     return fig
+
+
+def get_data():
+    test_h = Diagram.int_st.head(10)
+    test_t = Diagram.int_st.tail(10)
+    test_d = pd.concat([test_h, test_t], ignore_index=True)
+    test_d = test_d.to_dict(orient='records')
+
+    return test_d
+
+
+def add_data(yr, count_c, count_n, refug, asyl):
+
+    List = [yr, 'UKR', count_c, 'Ukraine', count_n, refug, asyl, 0, 0, 0, 0, 0]
+
+    with open('data/end_year_population_totals_originating_ukr.csv',
+              'a') as f_object:
+        writer_object = writer(f_object)
+        writer_object.writerow(List)
+        f_object.close()

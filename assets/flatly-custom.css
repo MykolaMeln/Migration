@@ -1,9 +1,3 @@
-/*!
- * Bootstrap v4.2.1 (https://getbootstrap.com/)
- * Copyright 2011-2018 The Bootstrap Authors
- * Copyright 2011-2018 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
- */
 @import url("https://fonts.googleapis.com/css?family=Lato:400,700,400italic");
 :root {
   --blue: #2C3E50;
@@ -55,9 +49,9 @@ body {
   font-size: 0.9375rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #212529;
+  color: rgb(209,223,237);
   text-align: left;
-  background-color: #fff; }
+  background-color: rgb(19,21,22); }
 
 [tabindex="-1"]:focus {
   outline: 0 !important; }
@@ -69,6 +63,7 @@ hr {
 
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
+  color: #F2F5FA;
   margin-bottom: 0.5rem; }
 
 p {
@@ -412,6 +407,21 @@ mark,
   font-size: 90%;
   color: #95a5a6; }
 
+.graphs1{
+  margin: 5rem 5rem 5rem 5rem;
+  padding: 0.2rem 0.4rem;
+  position: center;
+}
+.graphs2{
+  margin: 2rem 3rem 3rem 3rem;
+  padding: 2rem 1rem;
+  margin-bottom: 2rem;
+  background-color: rgb(24,31,33);
+  border-radius: 0.3rem;
+  float: center;
+  width: 3000px;
+  height: 800px;
+}
 code {
   font-size: 87.5%;
   color: #e83e8c;
@@ -1456,9 +1466,9 @@ pre {
   font-weight: 400;
   line-height: 1.5;
   color: #7b8a8b;
-  background-color: #fff;
+  background-color: rgb(24,26,27);
   background-clip: padding-box;
-  border: 1px solid #ced4da;
+  border: 1px solid rgb(60,65,68);
   border-radius: 0.25rem;
   transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out; }
   @media screen and (prefers-reduced-motion: reduce) {
@@ -1469,7 +1479,7 @@ pre {
     border: 0; }
   .form-control:focus {
     color: #7b8a8b;
-    background-color: #fff;
+    background-color: #1E2122;
     border-color: #597ea2;
     outline: 0;
     box-shadow: 0 0 0 0.2rem rgba(44, 62, 80, 0.25); }
@@ -3482,12 +3492,12 @@ input[type="button"].btn-block {
   padding: 0.5rem 0.75rem;
   margin-left: 0;
   line-height: 1.25;
-  color: #fff;
+  color: rgb(209,223,237);
   background-color: #18BC9C;
   border: 0 solid transparent; }
   .page-link:hover {
     z-index: 2;
-    color: #fff;
+    color: rgb(209,223,237);
     text-decoration: none;
     background-color: #0f7864;
     border-color: transparent; }
@@ -3507,7 +3517,7 @@ input[type="button"].btn-block {
   border-bottom-right-radius: 0.25rem; }
 .page-item.active .page-link {
   z-index: 1;
-  color: #fff;
+  color: rgb(209,223,237);
   background-color: #0f7864;
   border-color: transparent; }
 .page-item.disabled .page-link {
@@ -3607,7 +3617,7 @@ input[type="button"].btn-block {
 
 .badge-light {
   color: #212529;
-  background-color: #ecf0f1; }
+  background-color: rgb(24,31,33); }
   a.badge-light:hover, a.badge-light:focus {
     color: #212529;
     background-color: #cfd9db; }
@@ -3622,7 +3632,7 @@ input[type="button"].btn-block {
 .jumbotron {
   padding: 2rem 1rem;
   margin-bottom: 2rem;
-  background-color: #ecf0f1;
+  background-color: rgb(24,31,33);
   border-radius: 0.3rem; }
   @media (min-width: 576px) {
     .jumbotron {
@@ -7481,7 +7491,7 @@ a.text-dark:hover, a.text-dark:focus {
     .table td, #table-wrapper table td,
     .table th,
     #table-wrapper table th {
-      background-color: #fff !important; }
+      background-color: rgb(24,26,27) !important; }
 
   .table-bordered th, #table-wrapper table th,
   .table-bordered td,
@@ -7521,7 +7531,7 @@ a.text-dark:hover, a.text-dark:focus {
 .table-light, .table-light > th, .table-light > td {
   background-color: #ecf0f1; }
 .table-dark, .table-dark > th, .table-dark > td {
-  background-color: #7b8a8b; }
+  background-color: rgb(24,26,27); }
 .table-success, .table-success > th, .table-success > td {
   background-color: #18BC9C; }
 .table-info, .table-info > th, .table-info > td {
@@ -7606,5 +7616,3 @@ a.text-dark:hover, a.text-dark:focus {
   font-family: inherit;
   line-height: 1;
   --border: none; }
-
-/*# sourceMappingURL=table-custom.css.map */
